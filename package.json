@@ -1,0 +1,31 @@
+{
+  "name": "amsdakshya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "backend": "nodemon server/app.js",
+    "frontend": "npm run dev --prefix client",
+    "dev": "concurrently \"npm run backend\" \"npm run dev --prefix client\""
+  },
+  "keywords": [],
+  "author": "chandan thakur",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "multer": "^1.4.3",
+    "mysql": "^2.18.1",
+    "sweetalert2": "^11.1.7"
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.1",
+    "nodemon": "^2.0.13"
+  }
+}

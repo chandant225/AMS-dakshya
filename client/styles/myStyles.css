@@ -1,0 +1,86 @@
+.dropdown-wrapper {
+    position: relative;
+  
+
+}
+
+.dropdown-wrapper .dropdown-content {
+    visibility: hidden;
+    position:absolute;
+    top:0;
+    left:-7rem;
+    z-index: 999;
+    
+   
+}
+
+.dropdown-wrapper:hover .dropdown-content {
+    visibility: visible;
+    position:absolute;
+    top:0;
+    left:-7rem;
+    z-index: 999;
+  
+
+    
+}
+
+#optional-text {
+    padding:5px;
+    position:absolute;
+    top:0rem;
+    z-index: 999;
+    right:0;
+    border-radius: 2%;
+    background-color: gray;
+   
+}
+
+ table#attendance_table  th,td{
+    text-align: center;
+}
+
+
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #97453f;
+    color: white;
+  }
+
+  #personal-details-table tr,th,td{
+       border-bottom: solid 1px rgb(56, 54, 54);
+       padding:10px;
+  } 
+
+ .pp-tooltip{
+   visibility:hidden
+ }
+
+ #update-profile:hover + .pp-tooltip {
+        visibility:visible;
+        position:absolute;
+        bottom: -2rem;
+        right: 0;
+        transition: all 1s;
+}
+ 
+

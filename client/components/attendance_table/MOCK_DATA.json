@@ -1,0 +1,4502 @@
+[
+    {
+        "attendace_id": 1,
+        "employee_id": 1,
+        "date": "9/27/2021",
+        "name": "Glennie Rayment",
+        "checkIn_time": "6:18 PM",
+        "checkOut_time": "5:27 AM",
+        "reason": "Charadrius tricollaris"
+    },
+    {
+        "attendace_id": 2,
+        "employee_id": 2,
+        "date": "6/1/2021",
+        "name": "Dore Haswall",
+        "checkIn_time": "3:01 PM",
+        "checkOut_time": "9:19 PM",
+        "reason": "Carduelis pinus"
+    },
+    {
+        "attendace_id": 3,
+        "employee_id": 3,
+        "date": "12/1/2020",
+        "name": "Belicia Bouch",
+        "checkIn_time": "1:20 AM",
+        "checkOut_time": "11:24 AM",
+        "reason": "Paradoxurus hermaphroditus"
+    },
+    {
+        "attendace_id": 4,
+        "employee_id": 4,
+        "date": "2/5/2021",
+        "name": "Camellia Antonietti",
+        "checkIn_time": "10:26 AM",
+        "checkOut_time": "10:57 AM",
+        "reason": "Mirounga angustirostris"
+    },
+    {
+        "attendace_id": 5,
+        "employee_id": 5,
+        "date": "6/17/2021",
+        "name": "Sherm Swadling",
+        "checkIn_time": "5:13 AM",
+        "checkOut_time": "1:02 PM",
+        "reason": "Madoqua kirkii"
+    },
+    {
+        "attendace_id": 6,
+        "employee_id": 6,
+        "date": "5/23/2021",
+        "name": "Peterus Gilliland",
+        "checkIn_time": "3:07 AM",
+        "checkOut_time": "6:06 PM",
+        "reason": "Agkistrodon piscivorus"
+    },
+    {
+        "attendace_id": 7,
+        "employee_id": 7,
+        "date": "7/7/2021",
+        "name": "Luci Venn",
+        "checkIn_time": "2:11 AM",
+        "checkOut_time": "4:29 AM",
+        "reason": "Perameles nasuta"
+    },
+    {
+        "attendace_id": 8,
+        "employee_id": 8,
+        "date": "8/15/2021",
+        "name": "Adey Gerold",
+        "checkIn_time": "3:57 AM",
+        "checkOut_time": "2:51 PM",
+        "reason": "Bradypus tridactylus"
+    },
+    {
+        "attendace_id": 9,
+        "employee_id": 9,
+        "date": "2/8/2021",
+        "name": "Carver Dreinan",
+        "checkIn_time": "7:57 PM",
+        "checkOut_time": "6:33 AM",
+        "reason": "Smithopsis crassicaudata"
+    },
+    {
+        "attendace_id": 10,
+        "employee_id": 10,
+        "date": "10/14/2020",
+        "name": "Carolee Rameau",
+        "checkIn_time": "1:26 PM",
+        "checkOut_time": "10:09 PM",
+        "reason": "Crocuta crocuta"
+    },
+    {
+        "attendace_id": 11,
+        "employee_id": 11,
+        "date": "5/14/2021",
+        "name": "Eziechiele Fairbank",
+        "checkIn_time": "8:04 PM",
+        "checkOut_time": "6:19 AM",
+        "reason": "Ramphastos tucanus"
+    },
+    {
+        "attendace_id": 12,
+        "employee_id": 12,
+        "date": "1/18/2021",
+        "name": "Lilllie Groundwator",
+        "checkIn_time": "7:22 PM",
+        "checkOut_time": "9:14 PM",
+        "reason": "Manouria emys"
+    },
+    {
+        "attendace_id": 13,
+        "employee_id": 13,
+        "date": "1/2/2021",
+        "name": "Shalna Tongue",
+        "checkIn_time": "4:17 PM",
+        "checkOut_time": "10:47 AM",
+        "reason": "Larus sp."
+    },
+    {
+        "attendace_id": 14,
+        "employee_id": 14,
+        "date": "10/12/2020",
+        "name": "Townsend Scad",
+        "checkIn_time": "11:20 PM",
+        "checkOut_time": "5:34 PM",
+        "reason": "Genetta genetta"
+    },
+    {
+        "attendace_id": 15,
+        "employee_id": 15,
+        "date": "7/1/2021",
+        "name": "Marci Colaco",
+        "checkIn_time": "5:45 AM",
+        "checkOut_time": "1:02 AM",
+        "reason": "Coendou prehensilis"
+    },
+    {
+        "attendace_id": 16,
+        "employee_id": 16,
+        "date": "3/13/2021",
+        "name": "Janela Gillett",
+        "checkIn_time": "6:42 AM",
+        "checkOut_time": "3:36 PM",
+        "reason": "Redunca redunca"
+    },
+    {
+        "attendace_id": 17,
+        "employee_id": 17,
+        "date": "9/25/2021",
+        "name": "Kim Ruhben",
+        "checkIn_time": "2:19 PM",
+        "checkOut_time": "12:35 PM",
+        "reason": "Semnopithecus entellus"
+    },
+    {
+        "attendace_id": 18,
+        "employee_id": 18,
+        "date": "5/8/2021",
+        "name": "Che Witcher",
+        "checkIn_time": "7:23 AM",
+        "checkOut_time": "11:17 AM",
+        "reason": "Callorhinus ursinus"
+    },
+    {
+        "attendace_id": 19,
+        "employee_id": 19,
+        "date": "6/21/2021",
+        "name": "Ky Tran",
+        "checkIn_time": "1:33 AM",
+        "checkOut_time": "3:29 PM",
+        "reason": "Pavo cristatus"
+    },
+    {
+        "attendace_id": 20,
+        "employee_id": 20,
+        "date": "2/14/2021",
+        "name": "Emmery Pittway",
+        "checkIn_time": "2:11 AM",
+        "checkOut_time": "1:02 PM",
+        "reason": "Potamochoerus porcus"
+    },
+    {
+        "attendace_id": 21,
+        "employee_id": 21,
+        "date": "10/25/2020",
+        "name": "Emelda Knowlton",
+        "checkIn_time": "2:31 PM",
+        "checkOut_time": "2:31 AM",
+        "reason": "Vombatus ursinus"
+    },
+    {
+        "attendace_id": 22,
+        "employee_id": 22,
+        "date": "7/2/2021",
+        "name": "Reyna Kynaston",
+        "checkIn_time": "8:20 PM",
+        "checkOut_time": "10:58 AM",
+        "reason": "Alligator mississippiensis"
+    },
+    {
+        "attendace_id": 23,
+        "employee_id": 23,
+        "date": "8/20/2021",
+        "name": "Stormy Levick",
+        "checkIn_time": "7:24 AM",
+        "checkOut_time": "3:48 AM",
+        "reason": "Paraxerus cepapi"
+    },
+    {
+        "attendace_id": 24,
+        "employee_id": 24,
+        "date": "9/24/2021",
+        "name": "Eden Luxen",
+        "checkIn_time": "4:20 AM",
+        "checkOut_time": "1:29 PM",
+        "reason": "unavailable"
+    },
+    {
+        "attendace_id": 25,
+        "employee_id": 25,
+        "date": "7/5/2021",
+        "name": "Ardys Marke",
+        "checkIn_time": "6:27 AM",
+        "checkOut_time": "7:51 PM",
+        "reason": "Pelecans onocratalus"
+    },
+    {
+        "attendace_id": 26,
+        "employee_id": 26,
+        "date": "7/26/2021",
+        "name": "Gates Thunder",
+        "checkIn_time": "11:57 PM",
+        "checkOut_time": "3:59 AM",
+        "reason": "Pandon haliaetus"
+    },
+    {
+        "attendace_id": 27,
+        "employee_id": 27,
+        "date": "2/27/2021",
+        "name": "Jeremiah Tippett",
+        "checkIn_time": "11:57 AM",
+        "checkOut_time": "6:08 PM",
+        "reason": "Anitibyx armatus"
+    },
+    {
+        "attendace_id": 28,
+        "employee_id": 28,
+        "date": "4/1/2021",
+        "name": "Mellisa Riordan",
+        "checkIn_time": "9:25 AM",
+        "checkOut_time": "6:05 AM",
+        "reason": "Streptopelia decipiens"
+    },
+    {
+        "attendace_id": 29,
+        "employee_id": 29,
+        "date": "8/30/2021",
+        "name": "Juliane Waggitt",
+        "checkIn_time": "8:57 PM",
+        "checkOut_time": "3:10 AM",
+        "reason": "Himantopus himantopus"
+    },
+    {
+        "attendace_id": 30,
+        "employee_id": 30,
+        "date": "6/7/2021",
+        "name": "Dorisa Kiessel",
+        "checkIn_time": "5:38 AM",
+        "checkOut_time": "8:07 AM",
+        "reason": "Paradoxurus hermaphroditus"
+    },
+    {
+        "attendace_id": 31,
+        "employee_id": 31,
+        "date": "4/4/2021",
+        "name": "Hubert Gouldstraw",
+        "checkIn_time": "2:17 AM",
+        "checkOut_time": "7:32 PM",
+        "reason": "Camelus dromedarius"
+    },
+    {
+        "attendace_id": 32,
+        "employee_id": 32,
+        "date": "11/10/2020",
+        "name": "Estel Sushams",
+        "checkIn_time": "6:49 AM",
+        "checkOut_time": "3:57 AM",
+        "reason": "Acrobates pygmaeus"
+    },
+    {
+        "attendace_id": 33,
+        "employee_id": 33,
+        "date": "4/29/2021",
+        "name": "Flinn Comrie",
+        "checkIn_time": "8:47 AM",
+        "checkOut_time": "1:11 PM",
+        "reason": "Diomedea irrorata"
+    },
+    {
+        "attendace_id": 34,
+        "employee_id": 34,
+        "date": "6/29/2021",
+        "name": "Cecily Gromley",
+        "checkIn_time": "4:36 PM",
+        "checkOut_time": "3:50 PM",
+        "reason": "Castor canadensis"
+    },
+    {
+        "attendace_id": 35,
+        "employee_id": 35,
+        "date": "12/5/2020",
+        "name": "Jose Worcs",
+        "checkIn_time": "4:38 PM",
+        "checkOut_time": "11:11 AM",
+        "reason": "Dusicyon thous"
+    },
+    {
+        "attendace_id": 36,
+        "employee_id": 36,
+        "date": "2/24/2021",
+        "name": "Tanitansy Fragino",
+        "checkIn_time": "5:21 PM",
+        "checkOut_time": "4:27 PM",
+        "reason": "Trachyphonus vaillantii"
+    },
+    {
+        "attendace_id": 37,
+        "employee_id": 37,
+        "date": "7/10/2021",
+        "name": "Thelma Crowcroft",
+        "checkIn_time": "3:02 AM",
+        "checkOut_time": "3:40 AM",
+        "reason": "Gyps bengalensis"
+    },
+    {
+        "attendace_id": 38,
+        "employee_id": 38,
+        "date": "3/1/2021",
+        "name": "Charlton Elvin",
+        "checkIn_time": "7:45 PM",
+        "checkOut_time": "6:04 PM",
+        "reason": "Colaptes campestroides"
+    },
+    {
+        "attendace_id": 39,
+        "employee_id": 39,
+        "date": "7/28/2021",
+        "name": "Konstance Blaymires",
+        "checkIn_time": "11:41 PM",
+        "checkOut_time": "4:23 AM",
+        "reason": "Felis silvestris lybica"
+    },
+    {
+        "attendace_id": 40,
+        "employee_id": 40,
+        "date": "10/17/2020",
+        "name": "Elvin Moodie",
+        "checkIn_time": "6:26 PM",
+        "checkOut_time": "11:48 AM",
+        "reason": "Pycnonotus barbatus"
+    },
+    {
+        "attendace_id": 41,
+        "employee_id": 41,
+        "date": "12/11/2020",
+        "name": "Val Rate",
+        "checkIn_time": "1:02 AM",
+        "checkOut_time": "3:50 AM",
+        "reason": "Colobus guerza"
+    },
+    {
+        "attendace_id": 42,
+        "employee_id": 42,
+        "date": "1/21/2021",
+        "name": "Patric Halmkin",
+        "checkIn_time": "2:29 AM",
+        "checkOut_time": "2:02 AM",
+        "reason": "Boa constrictor mexicana"
+    },
+    {
+        "attendace_id": 43,
+        "employee_id": 43,
+        "date": "11/12/2020",
+        "name": "Madelina Scholfield",
+        "checkIn_time": "9:01 AM",
+        "checkOut_time": "4:00 PM",
+        "reason": "Sylvicapra grimma"
+    },
+    {
+        "attendace_id": 44,
+        "employee_id": 44,
+        "date": "6/18/2021",
+        "name": "Aurelea Trusty",
+        "checkIn_time": "5:39 PM",
+        "checkOut_time": "10:25 PM",
+        "reason": "Anser caerulescens"
+    },
+    {
+        "attendace_id": 45,
+        "employee_id": 45,
+        "date": "12/9/2020",
+        "name": "Inge Clohisey",
+        "checkIn_time": "1:02 PM",
+        "checkOut_time": "2:43 PM",
+        "reason": "Cacatua tenuirostris"
+    },
+    {
+        "attendace_id": 46,
+        "employee_id": 46,
+        "date": "4/14/2021",
+        "name": "Von Slee",
+        "checkIn_time": "5:17 PM",
+        "checkOut_time": "1:26 AM",
+        "reason": "Bubulcus ibis"
+    },
+    {
+        "attendace_id": 47,
+        "employee_id": 47,
+        "date": "7/19/2021",
+        "name": "Lew Stenton",
+        "checkIn_time": "10:33 PM",
+        "checkOut_time": "5:33 PM",
+        "reason": "Acrantophis madagascariensis"
+    },
+    {
+        "attendace_id": 48,
+        "employee_id": 48,
+        "date": "3/7/2021",
+        "name": "Gianna Jorry",
+        "checkIn_time": "9:23 PM",
+        "checkOut_time": "10:45 AM",
+        "reason": "Sus scrofa"
+    },
+    {
+        "attendace_id": 49,
+        "employee_id": 49,
+        "date": "3/27/2021",
+        "name": "Yelena Hatliff",
+        "checkIn_time": "7:48 PM",
+        "checkOut_time": "1:28 AM",
+        "reason": "Streptopelia senegalensis"
+    },
+    {
+        "attendace_id": 50,
+        "employee_id": 50,
+        "date": "8/3/2021",
+        "name": "Tomlin Oxborough",
+        "checkIn_time": "4:06 AM",
+        "checkOut_time": "12:34 AM",
+        "reason": "Ciconia episcopus"
+    },
+    {
+        "attendace_id": 51,
+        "employee_id": 51,
+        "date": "3/14/2021",
+        "name": "Currey Illingworth",
+        "checkIn_time": "9:23 AM",
+        "checkOut_time": "12:24 AM",
+        "reason": "Zosterops pallidus"
+    },
+    {
+        "attendace_id": 52,
+        "employee_id": 52,
+        "date": "9/11/2021",
+        "name": "Viva Triswell",
+        "checkIn_time": "4:58 AM",
+        "checkOut_time": "3:00 PM",
+        "reason": "Alces alces"
+    },
+    {
+        "attendace_id": 53,
+        "employee_id": 53,
+        "date": "1/23/2021",
+        "name": "Hetty Duckwith",
+        "checkIn_time": "8:35 PM",
+        "checkOut_time": "9:55 AM",
+        "reason": "Panthera leo persica"
+    },
+    {
+        "attendace_id": 54,
+        "employee_id": 54,
+        "date": "9/30/2021",
+        "name": "Temp Larmett",
+        "checkIn_time": "3:26 PM",
+        "checkOut_time": "8:57 PM",
+        "reason": "Tachyglossus aculeatus"
+    },
+    {
+        "attendace_id": 55,
+        "employee_id": 55,
+        "date": "9/22/2021",
+        "name": "Riane Witson",
+        "checkIn_time": "8:45 PM",
+        "checkOut_time": "2:53 AM",
+        "reason": "Eubalaena australis"
+    },
+    {
+        "attendace_id": 56,
+        "employee_id": 56,
+        "date": "12/6/2020",
+        "name": "Suzy Cammis",
+        "checkIn_time": "12:33 PM",
+        "checkOut_time": "5:14 AM",
+        "reason": "unavailable"
+    },
+    {
+        "attendace_id": 57,
+        "employee_id": 57,
+        "date": "7/6/2021",
+        "name": "Jaclin Bungey",
+        "checkIn_time": "5:44 PM",
+        "checkOut_time": "1:32 PM",
+        "reason": "Nectarinia chalybea"
+    },
+    {
+        "attendace_id": 58,
+        "employee_id": 58,
+        "date": "10/17/2020",
+        "name": "Betty Iacapucci",
+        "checkIn_time": "7:47 AM",
+        "checkOut_time": "10:04 AM",
+        "reason": "Lutra canadensis"
+    },
+    {
+        "attendace_id": 59,
+        "employee_id": 59,
+        "date": "11/20/2020",
+        "name": "Zacharie Doody",
+        "checkIn_time": "7:16 AM",
+        "checkOut_time": "9:39 PM",
+        "reason": "Macropus robustus"
+    },
+    {
+        "attendace_id": 60,
+        "employee_id": 60,
+        "date": "5/12/2021",
+        "name": "Eadith Ibbett",
+        "checkIn_time": "8:33 AM",
+        "checkOut_time": "11:02 PM",
+        "reason": "Microcebus murinus"
+    },
+    {
+        "attendace_id": 61,
+        "employee_id": 61,
+        "date": "11/12/2020",
+        "name": "Malorie Giametti",
+        "checkIn_time": "8:16 PM",
+        "checkOut_time": "7:30 PM",
+        "reason": "Cervus duvauceli"
+    },
+    {
+        "attendace_id": 62,
+        "employee_id": 62,
+        "date": "10/20/2020",
+        "name": "Hashim Riddich",
+        "checkIn_time": "2:45 AM",
+        "checkOut_time": "5:46 PM",
+        "reason": "Herpestes javanicus"
+    },
+    {
+        "attendace_id": 63,
+        "employee_id": 63,
+        "date": "2/8/2021",
+        "name": "Alyss Dearl",
+        "checkIn_time": "5:21 PM",
+        "checkOut_time": "12:57 AM",
+        "reason": "Chloephaga melanoptera"
+    },
+    {
+        "attendace_id": 64,
+        "employee_id": 64,
+        "date": "7/3/2021",
+        "name": "Sybil Whyard",
+        "checkIn_time": "8:45 PM",
+        "checkOut_time": "4:12 AM",
+        "reason": "Cordylus giganteus"
+    },
+    {
+        "attendace_id": 65,
+        "employee_id": 65,
+        "date": "4/16/2021",
+        "name": "Shantee Pancost",
+        "checkIn_time": "11:25 AM",
+        "checkOut_time": "1:41 AM",
+        "reason": "Francolinus swainsonii"
+    },
+    {
+        "attendace_id": 66,
+        "employee_id": 66,
+        "date": "3/13/2021",
+        "name": "Charmane De Freyne",
+        "checkIn_time": "10:27 AM",
+        "checkOut_time": "4:59 PM",
+        "reason": "Actophilornis africanus"
+    },
+    {
+        "attendace_id": 67,
+        "employee_id": 67,
+        "date": "7/28/2021",
+        "name": "Kristian Torel",
+        "checkIn_time": "1:54 AM",
+        "checkOut_time": "11:16 PM",
+        "reason": "Agama sp."
+    },
+    {
+        "attendace_id": 68,
+        "employee_id": 68,
+        "date": "5/7/2021",
+        "name": "Mariann Brushfield",
+        "checkIn_time": "6:16 AM",
+        "checkOut_time": "2:05 AM",
+        "reason": "Mephitis mephitis"
+    },
+    {
+        "attendace_id": 69,
+        "employee_id": 69,
+        "date": "7/8/2021",
+        "name": "Tore Emeline",
+        "checkIn_time": "9:27 PM",
+        "checkOut_time": "1:00 PM",
+        "reason": "Canis mesomelas"
+    },
+    {
+        "attendace_id": 70,
+        "employee_id": 70,
+        "date": "6/26/2021",
+        "name": "Effie Crusham",
+        "checkIn_time": "12:45 PM",
+        "checkOut_time": "9:57 PM",
+        "reason": "Felis caracal"
+    },
+    {
+        "attendace_id": 71,
+        "employee_id": 71,
+        "date": "7/13/2021",
+        "name": "Frederico Aliman",
+        "checkIn_time": "2:46 AM",
+        "checkOut_time": "9:33 PM",
+        "reason": "Helogale undulata"
+    },
+    {
+        "attendace_id": 72,
+        "employee_id": 72,
+        "date": "7/23/2021",
+        "name": "Montague Geeson",
+        "checkIn_time": "8:47 PM",
+        "checkOut_time": "11:02 AM",
+        "reason": "Macropus rufogriseus"
+    },
+    {
+        "attendace_id": 73,
+        "employee_id": 73,
+        "date": "1/4/2021",
+        "name": "Blinni Mellodey",
+        "checkIn_time": "1:25 PM",
+        "checkOut_time": "1:38 PM",
+        "reason": "Irania gutteralis"
+    },
+    {
+        "attendace_id": 74,
+        "employee_id": 74,
+        "date": "4/17/2021",
+        "name": "Nellie Gabel",
+        "checkIn_time": "2:02 PM",
+        "checkOut_time": "12:57 AM",
+        "reason": "Tachybaptus ruficollis"
+    },
+    {
+        "attendace_id": 75,
+        "employee_id": 75,
+        "date": "3/13/2021",
+        "name": "Giulia Canape",
+        "checkIn_time": "1:50 AM",
+        "checkOut_time": "2:37 AM",
+        "reason": "Anthropoides paradisea"
+    },
+    {
+        "attendace_id": 76,
+        "employee_id": 76,
+        "date": "10/24/2020",
+        "name": "Latrena Scurrey",
+        "checkIn_time": "10:26 AM",
+        "checkOut_time": "2:02 AM",
+        "reason": "Capreolus capreolus"
+    },
+    {
+        "attendace_id": 77,
+        "employee_id": 77,
+        "date": "10/8/2020",
+        "name": "Tiena Senn",
+        "checkIn_time": "1:03 PM",
+        "checkOut_time": "7:44 PM",
+        "reason": "Macropus fuliginosus"
+    },
+    {
+        "attendace_id": 78,
+        "employee_id": 78,
+        "date": "2/16/2021",
+        "name": "Chris Dollimore",
+        "checkIn_time": "1:58 PM",
+        "checkOut_time": "8:55 AM",
+        "reason": "Cynictis penicillata"
+    },
+    {
+        "attendace_id": 79,
+        "employee_id": 79,
+        "date": "10/5/2020",
+        "name": "Cordelie Andrus",
+        "checkIn_time": "8:58 AM",
+        "checkOut_time": "11:03 PM",
+        "reason": "Aonyx cinerea"
+    },
+    {
+        "attendace_id": 80,
+        "employee_id": 80,
+        "date": "4/8/2021",
+        "name": "Edik Antoniutti",
+        "checkIn_time": "2:48 AM",
+        "checkOut_time": "11:44 PM",
+        "reason": "Equus hemionus"
+    },
+    {
+        "attendace_id": 81,
+        "employee_id": 81,
+        "date": "2/11/2021",
+        "name": "Nalani Davys",
+        "checkIn_time": "10:33 AM",
+        "checkOut_time": "2:22 PM",
+        "reason": "Phylurus milli"
+    },
+    {
+        "attendace_id": 82,
+        "employee_id": 82,
+        "date": "9/20/2021",
+        "name": "Brandea Thain",
+        "checkIn_time": "8:21 PM",
+        "checkOut_time": "2:12 PM",
+        "reason": "Choloepus hoffmani"
+    },
+    {
+        "attendace_id": 83,
+        "employee_id": 83,
+        "date": "7/21/2021",
+        "name": "Mercie Lakenton",
+        "checkIn_time": "7:43 AM",
+        "checkOut_time": "5:01 PM",
+        "reason": "Echimys chrysurus"
+    },
+    {
+        "attendace_id": 84,
+        "employee_id": 84,
+        "date": "11/15/2020",
+        "name": "Piotr Augustine",
+        "checkIn_time": "5:43 AM",
+        "checkOut_time": "10:40 PM",
+        "reason": "Giraffe camelopardalis"
+    },
+    {
+        "attendace_id": 85,
+        "employee_id": 85,
+        "date": "5/31/2021",
+        "name": "Ferrel Plaister",
+        "checkIn_time": "1:45 AM",
+        "checkOut_time": "12:47 AM",
+        "reason": "Ovis ammon"
+    },
+    {
+        "attendace_id": 86,
+        "employee_id": 86,
+        "date": "8/14/2021",
+        "name": "Malachi Pollak",
+        "checkIn_time": "2:44 AM",
+        "checkOut_time": "4:12 PM",
+        "reason": "Larus dominicanus"
+    },
+    {
+        "attendace_id": 87,
+        "employee_id": 87,
+        "date": "5/14/2021",
+        "name": "Nollie Fiddeman",
+        "checkIn_time": "1:21 AM",
+        "checkOut_time": "8:08 PM",
+        "reason": "Butorides striatus"
+    },
+    {
+        "attendace_id": 88,
+        "employee_id": 88,
+        "date": "1/2/2021",
+        "name": "Denyse Eccleston",
+        "checkIn_time": "12:52 PM",
+        "checkOut_time": "2:17 PM",
+        "reason": "Merops sp."
+    },
+    {
+        "attendace_id": 89,
+        "employee_id": 89,
+        "date": "5/2/2021",
+        "name": "Maddy Hassen",
+        "checkIn_time": "11:29 AM",
+        "checkOut_time": "4:49 AM",
+        "reason": "Varanus sp."
+    },
+    {
+        "attendace_id": 90,
+        "employee_id": 90,
+        "date": "5/10/2021",
+        "name": "Georgeanna Ransbury",
+        "checkIn_time": "12:05 AM",
+        "checkOut_time": "6:05 AM",
+        "reason": "Manouria emys"
+    },
+    {
+        "attendace_id": 91,
+        "employee_id": 91,
+        "date": "7/3/2021",
+        "name": "Buddy Stirman",
+        "checkIn_time": "12:30 AM",
+        "checkOut_time": "6:56 PM",
+        "reason": "Ovis ammon"
+    },
+    {
+        "attendace_id": 92,
+        "employee_id": 92,
+        "date": "1/8/2021",
+        "name": "Marthe Dundon",
+        "checkIn_time": "11:57 PM",
+        "checkOut_time": "2:14 PM",
+        "reason": "Bubo sp."
+    },
+    {
+        "attendace_id": 93,
+        "employee_id": 93,
+        "date": "8/5/2021",
+        "name": "Merl Frankom",
+        "checkIn_time": "12:56 PM",
+        "checkOut_time": "8:11 AM",
+        "reason": "Melophus lathami"
+    },
+    {
+        "attendace_id": 94,
+        "employee_id": 94,
+        "date": "4/26/2021",
+        "name": "Stesha Burg",
+        "checkIn_time": "10:47 PM",
+        "checkOut_time": "9:38 PM",
+        "reason": "Oryx gazella"
+    },
+    {
+        "attendace_id": 95,
+        "employee_id": 95,
+        "date": "3/23/2021",
+        "name": "Cal Troppmann",
+        "checkIn_time": "10:00 PM",
+        "checkOut_time": "7:09 AM",
+        "reason": "Arctogalidia trivirgata"
+    },
+    {
+        "attendace_id": 96,
+        "employee_id": 96,
+        "date": "1/27/2021",
+        "name": "Hubey Gauford",
+        "checkIn_time": "3:14 PM",
+        "checkOut_time": "1:56 PM",
+        "reason": "Centrocercus urophasianus"
+    },
+    {
+        "attendace_id": 97,
+        "employee_id": 97,
+        "date": "4/8/2021",
+        "name": "Marcela Dutteridge",
+        "checkIn_time": "3:07 PM",
+        "checkOut_time": "6:10 PM",
+        "reason": "Merops bullockoides"
+    },
+    {
+        "attendace_id": 98,
+        "employee_id": 98,
+        "date": "10/10/2020",
+        "name": "Vivianne Clancy",
+        "checkIn_time": "9:44 PM",
+        "checkOut_time": "4:52 PM",
+        "reason": "Uraeginthus granatina"
+    },
+    {
+        "attendace_id": 99,
+        "employee_id": 99,
+        "date": "10/3/2021",
+        "name": "Ellis Tulloch",
+        "checkIn_time": "12:16 PM",
+        "checkOut_time": "12:22 PM",
+        "reason": "Cebus apella"
+    },
+    {
+        "attendace_id": 100,
+        "employee_id": 100,
+        "date": "10/30/2020",
+        "name": "Aurthur Bernardelli",
+        "checkIn_time": "5:50 AM",
+        "checkOut_time": "9:24 PM",
+        "reason": "Anthropoides paradisea"
+    },
+    {
+        "attendace_id": 101,
+        "employee_id": 101,
+        "date": "6/6/2021",
+        "name": "Prisca Bebbell",
+        "checkIn_time": "8:00 AM",
+        "checkOut_time": "3:05 AM",
+        "reason": "Phascogale calura"
+    },
+    {
+        "attendace_id": 102,
+        "employee_id": 102,
+        "date": "9/24/2021",
+        "name": "Monty Harragin",
+        "checkIn_time": "1:25 AM",
+        "checkOut_time": "5:32 AM",
+        "reason": "Semnopithecus entellus"
+    },
+    {
+        "attendace_id": 103,
+        "employee_id": 103,
+        "date": "9/4/2021",
+        "name": "Kale Allone",
+        "checkIn_time": "7:18 AM",
+        "checkOut_time": "4:19 AM",
+        "reason": "Amblyrhynchus cristatus"
+    },
+    {
+        "attendace_id": 104,
+        "employee_id": 104,
+        "date": "7/25/2021",
+        "name": "Timmi Skidmore",
+        "checkIn_time": "3:26 PM",
+        "checkOut_time": "3:47 AM",
+        "reason": "Macaca nemestrina"
+    },
+    {
+        "attendace_id": 105,
+        "employee_id": 105,
+        "date": "6/2/2021",
+        "name": "Dorene Ortas",
+        "checkIn_time": "10:56 PM",
+        "checkOut_time": "3:24 AM",
+        "reason": "Gyps bengalensis"
+    },
+    {
+        "attendace_id": 106,
+        "employee_id": 106,
+        "date": "4/16/2021",
+        "name": "Derrik Fyrth",
+        "checkIn_time": "9:42 PM",
+        "checkOut_time": "1:49 PM",
+        "reason": "Physignathus cocincinus"
+    },
+    {
+        "attendace_id": 107,
+        "employee_id": 107,
+        "date": "12/5/2020",
+        "name": "Calla Moth",
+        "checkIn_time": "9:51 AM",
+        "checkOut_time": "2:52 AM",
+        "reason": "Gazella granti"
+    },
+    {
+        "attendace_id": 108,
+        "employee_id": 108,
+        "date": "7/5/2021",
+        "name": "Eadie Overnell",
+        "checkIn_time": "4:44 AM",
+        "checkOut_time": "12:56 PM",
+        "reason": "Chionis alba"
+    },
+    {
+        "attendace_id": 109,
+        "employee_id": 109,
+        "date": "11/10/2020",
+        "name": "Hugues Pithie",
+        "checkIn_time": "12:30 PM",
+        "checkOut_time": "9:19 AM",
+        "reason": "Choloepus hoffmani"
+    },
+    {
+        "attendace_id": 110,
+        "employee_id": 110,
+        "date": "9/7/2021",
+        "name": "Clarance Hughill",
+        "checkIn_time": "10:17 AM",
+        "checkOut_time": "12:20 PM",
+        "reason": "Buteo galapagoensis"
+    },
+    {
+        "attendace_id": 111,
+        "employee_id": 111,
+        "date": "3/18/2021",
+        "name": "Hewe Minshall",
+        "checkIn_time": "6:26 PM",
+        "checkOut_time": "3:10 AM",
+        "reason": "Corvus albus"
+    },
+    {
+        "attendace_id": 112,
+        "employee_id": 112,
+        "date": "9/23/2021",
+        "name": "Daisy Helder",
+        "checkIn_time": "5:15 AM",
+        "checkOut_time": "8:48 PM",
+        "reason": "Macropus fuliginosus"
+    },
+    {
+        "attendace_id": 113,
+        "employee_id": 113,
+        "date": "11/15/2020",
+        "name": "Evania Kegan",
+        "checkIn_time": "9:25 AM",
+        "checkOut_time": "8:21 AM",
+        "reason": "Cochlearius cochlearius"
+    },
+    {
+        "attendace_id": 114,
+        "employee_id": 114,
+        "date": "10/20/2020",
+        "name": "Cordell Yandle",
+        "checkIn_time": "12:00 AM",
+        "checkOut_time": "5:39 AM",
+        "reason": "Odocoileus hemionus"
+    },
+    {
+        "attendace_id": 115,
+        "employee_id": 115,
+        "date": "7/27/2021",
+        "name": "Lana Samme",
+        "checkIn_time": "11:29 AM",
+        "checkOut_time": "5:21 PM",
+        "reason": "Lamprotornis nitens"
+    },
+    {
+        "attendace_id": 116,
+        "employee_id": 116,
+        "date": "3/31/2021",
+        "name": "Sheridan Blackwood",
+        "checkIn_time": "6:34 AM",
+        "checkOut_time": "5:34 AM",
+        "reason": "Geospiza sp."
+    },
+    {
+        "attendace_id": 117,
+        "employee_id": 117,
+        "date": "3/1/2021",
+        "name": "Ofella Gillbanks",
+        "checkIn_time": "2:26 PM",
+        "checkOut_time": "12:57 PM",
+        "reason": "Lycaon pictus"
+    },
+    {
+        "attendace_id": 118,
+        "employee_id": 118,
+        "date": "11/3/2020",
+        "name": "Sylvia Rodson",
+        "checkIn_time": "4:48 PM",
+        "checkOut_time": "5:36 PM",
+        "reason": "Lutra canadensis"
+    },
+    {
+        "attendace_id": 119,
+        "employee_id": 119,
+        "date": "12/24/2020",
+        "name": "Roz Gilliard",
+        "checkIn_time": "10:28 AM",
+        "checkOut_time": "9:16 PM",
+        "reason": "Tadorna tadorna"
+    },
+    {
+        "attendace_id": 120,
+        "employee_id": 120,
+        "date": "1/15/2021",
+        "name": "Crosby Duthie",
+        "checkIn_time": "6:08 AM",
+        "checkOut_time": "11:20 PM",
+        "reason": "Aegypius occipitalis"
+    },
+    {
+        "attendace_id": 121,
+        "employee_id": 121,
+        "date": "9/20/2021",
+        "name": "Ruth Block",
+        "checkIn_time": "8:11 PM",
+        "checkOut_time": "1:37 PM",
+        "reason": "Zalophus californicus"
+    },
+    {
+        "attendace_id": 122,
+        "employee_id": 122,
+        "date": "7/7/2021",
+        "name": "Lila Signorelli",
+        "checkIn_time": "7:40 PM",
+        "checkOut_time": "12:56 PM",
+        "reason": "Mycteria ibis"
+    },
+    {
+        "attendace_id": 123,
+        "employee_id": 123,
+        "date": "4/1/2021",
+        "name": "Torie Pllu",
+        "checkIn_time": "6:02 AM",
+        "checkOut_time": "12:48 AM",
+        "reason": "Phasianus colchicus"
+    },
+    {
+        "attendace_id": 124,
+        "employee_id": 124,
+        "date": "12/26/2020",
+        "name": "Hyacinthe Burne",
+        "checkIn_time": "4:00 AM",
+        "checkOut_time": "1:35 AM",
+        "reason": "Libellula quadrimaculata"
+    },
+    {
+        "attendace_id": 125,
+        "employee_id": 125,
+        "date": "5/29/2021",
+        "name": "Celle Bristoe",
+        "checkIn_time": "4:22 AM",
+        "checkOut_time": "2:52 AM",
+        "reason": "Geochelone elegans"
+    },
+    {
+        "attendace_id": 126,
+        "employee_id": 126,
+        "date": "12/22/2020",
+        "name": "Sammy Marrington",
+        "checkIn_time": "8:23 AM",
+        "checkOut_time": "11:02 PM",
+        "reason": "Delphinus delphis"
+    },
+    {
+        "attendace_id": 127,
+        "employee_id": 127,
+        "date": "4/26/2021",
+        "name": "Brana Ponceford",
+        "checkIn_time": "6:55 AM",
+        "checkOut_time": "1:27 PM",
+        "reason": "Coluber constrictor"
+    },
+    {
+        "attendace_id": 128,
+        "employee_id": 128,
+        "date": "4/24/2021",
+        "name": "Lowell Olkowicz",
+        "checkIn_time": "9:48 PM",
+        "checkOut_time": "7:00 PM",
+        "reason": "Corvus brachyrhynchos"
+    },
+    {
+        "attendace_id": 129,
+        "employee_id": 129,
+        "date": "1/18/2021",
+        "name": "Rosetta Jakolevitch",
+        "checkIn_time": "1:51 AM",
+        "checkOut_time": "5:32 PM",
+        "reason": "Coluber constrictor foxii"
+    },
+    {
+        "attendace_id": 130,
+        "employee_id": 130,
+        "date": "11/8/2020",
+        "name": "Lanae Lorne",
+        "checkIn_time": "6:43 AM",
+        "checkOut_time": "7:58 AM",
+        "reason": "Petaurus norfolcensis"
+    },
+    {
+        "attendace_id": 131,
+        "employee_id": 131,
+        "date": "11/13/2020",
+        "name": "Elvera Dubique",
+        "checkIn_time": "4:47 AM",
+        "checkOut_time": "7:14 AM",
+        "reason": "Vicugna vicugna"
+    },
+    {
+        "attendace_id": 132,
+        "employee_id": 132,
+        "date": "3/19/2021",
+        "name": "Jourdan Withur",
+        "checkIn_time": "10:12 PM",
+        "checkOut_time": "1:52 AM",
+        "reason": "Bettongia penicillata"
+    },
+    {
+        "attendace_id": 133,
+        "employee_id": 133,
+        "date": "10/14/2020",
+        "name": "Idelle Gribble",
+        "checkIn_time": "4:26 PM",
+        "checkOut_time": "7:35 AM",
+        "reason": "Tringa glareola"
+    },
+    {
+        "attendace_id": 134,
+        "employee_id": 134,
+        "date": "10/5/2020",
+        "name": "Rabbi Carreyette",
+        "checkIn_time": "9:48 PM",
+        "checkOut_time": "11:05 PM",
+        "reason": "Erethizon dorsatum"
+    },
+    {
+        "attendace_id": 135,
+        "employee_id": 135,
+        "date": "7/3/2021",
+        "name": "Lindsy Postin",
+        "checkIn_time": "10:50 PM",
+        "checkOut_time": "8:56 PM",
+        "reason": "Cervus duvauceli"
+    },
+    {
+        "attendace_id": 136,
+        "employee_id": 136,
+        "date": "8/11/2021",
+        "name": "Farrand Reinhart",
+        "checkIn_time": "1:16 PM",
+        "checkOut_time": "3:01 PM",
+        "reason": "Crotalus adamanteus"
+    },
+    {
+        "attendace_id": 137,
+        "employee_id": 137,
+        "date": "6/26/2021",
+        "name": "Freddi Robley",
+        "checkIn_time": "5:32 AM",
+        "checkOut_time": "2:33 AM",
+        "reason": "Alopex lagopus"
+    },
+    {
+        "attendace_id": 138,
+        "employee_id": 138,
+        "date": "9/20/2021",
+        "name": "Leonanie Domokos",
+        "checkIn_time": "4:52 PM",
+        "checkOut_time": "9:08 PM",
+        "reason": "Coluber constrictor"
+    },
+    {
+        "attendace_id": 139,
+        "employee_id": 139,
+        "date": "8/24/2021",
+        "name": "Alicea Amis",
+        "checkIn_time": "7:20 PM",
+        "checkOut_time": "4:09 AM",
+        "reason": "Sula dactylatra"
+    },
+    {
+        "attendace_id": 140,
+        "employee_id": 140,
+        "date": "8/31/2021",
+        "name": "Morty Scanlan",
+        "checkIn_time": "9:13 PM",
+        "checkOut_time": "10:51 PM",
+        "reason": "Pelecans onocratalus"
+    },
+    {
+        "attendace_id": 141,
+        "employee_id": 141,
+        "date": "9/16/2021",
+        "name": "Sonni Gorch",
+        "checkIn_time": "6:45 AM",
+        "checkOut_time": "11:24 PM",
+        "reason": "Theropithecus gelada"
+    },
+    {
+        "attendace_id": 142,
+        "employee_id": 142,
+        "date": "4/10/2021",
+        "name": "Gizela McDuall",
+        "checkIn_time": "2:42 PM",
+        "checkOut_time": "2:05 AM",
+        "reason": "Orcinus orca"
+    },
+    {
+        "attendace_id": 143,
+        "employee_id": 143,
+        "date": "4/4/2021",
+        "name": "Ariela Vosper",
+        "checkIn_time": "7:01 PM",
+        "checkOut_time": "9:05 PM",
+        "reason": "Eremophila alpestris"
+    },
+    {
+        "attendace_id": 144,
+        "employee_id": 144,
+        "date": "7/26/2021",
+        "name": "Edik Brittian",
+        "checkIn_time": "11:47 PM",
+        "checkOut_time": "8:09 AM",
+        "reason": "Grus rubicundus"
+    },
+    {
+        "attendace_id": 145,
+        "employee_id": 145,
+        "date": "4/30/2021",
+        "name": "Myrwyn Donaghy",
+        "checkIn_time": "3:12 AM",
+        "checkOut_time": "9:46 PM",
+        "reason": "unavailable"
+    },
+    {
+        "attendace_id": 146,
+        "employee_id": 146,
+        "date": "9/14/2021",
+        "name": "Neille Son",
+        "checkIn_time": "9:20 AM",
+        "checkOut_time": "10:50 AM",
+        "reason": "Actophilornis africanus"
+    },
+    {
+        "attendace_id": 147,
+        "employee_id": 147,
+        "date": "3/22/2021",
+        "name": "Rasia Dubarry",
+        "checkIn_time": "12:15 PM",
+        "checkOut_time": "6:33 AM",
+        "reason": "Semnopithecus entellus"
+    },
+    {
+        "attendace_id": 148,
+        "employee_id": 148,
+        "date": "5/31/2021",
+        "name": "Prentiss Baccas",
+        "checkIn_time": "1:12 PM",
+        "checkOut_time": "1:26 PM",
+        "reason": "Manouria emys"
+    },
+    {
+        "attendace_id": 149,
+        "employee_id": 149,
+        "date": "11/26/2020",
+        "name": "Sande Sandison",
+        "checkIn_time": "2:42 PM",
+        "checkOut_time": "12:30 AM",
+        "reason": "Acridotheres tristis"
+    },
+    {
+        "attendace_id": 150,
+        "employee_id": 150,
+        "date": "4/2/2021",
+        "name": "Timmy Antonio",
+        "checkIn_time": "9:03 PM",
+        "checkOut_time": "5:20 AM",
+        "reason": "Phoeniconaias minor"
+    },
+    {
+        "attendace_id": 151,
+        "employee_id": 151,
+        "date": "2/28/2021",
+        "name": "Nada Rasper",
+        "checkIn_time": "7:12 PM",
+        "checkOut_time": "7:53 AM",
+        "reason": "Acrantophis madagascariensis"
+    },
+    {
+        "attendace_id": 152,
+        "employee_id": 152,
+        "date": "9/26/2021",
+        "name": "Sinclair Capnor",
+        "checkIn_time": "3:59 AM",
+        "checkOut_time": "3:26 AM",
+        "reason": "Butorides striatus"
+    },
+    {
+        "attendace_id": 153,
+        "employee_id": 153,
+        "date": "11/7/2020",
+        "name": "Elisabetta Cicetti",
+        "checkIn_time": "4:06 PM",
+        "checkOut_time": "8:47 AM",
+        "reason": "Felis silvestris lybica"
+    },
+    {
+        "attendace_id": 154,
+        "employee_id": 154,
+        "date": "7/1/2021",
+        "name": "Walker Antonikov",
+        "checkIn_time": "4:34 PM",
+        "checkOut_time": "5:26 PM",
+        "reason": "Theropithecus gelada"
+    },
+    {
+        "attendace_id": 155,
+        "employee_id": 155,
+        "date": "1/12/2021",
+        "name": "Fonsie Smiley",
+        "checkIn_time": "4:29 AM",
+        "checkOut_time": "4:21 AM",
+        "reason": "Branta canadensis"
+    },
+    {
+        "attendace_id": 156,
+        "employee_id": 156,
+        "date": "3/26/2021",
+        "name": "Burgess Fanti",
+        "checkIn_time": "9:18 AM",
+        "checkOut_time": "7:16 PM",
+        "reason": "Butorides striatus"
+    },
+    {
+        "attendace_id": 157,
+        "employee_id": 157,
+        "date": "5/23/2021",
+        "name": "Emelina Haggett",
+        "checkIn_time": "4:18 AM",
+        "checkOut_time": "8:28 PM",
+        "reason": "Dasypus novemcinctus"
+    },
+    {
+        "attendace_id": 158,
+        "employee_id": 158,
+        "date": "5/21/2021",
+        "name": "Pierce Frosch",
+        "checkIn_time": "2:48 AM",
+        "checkOut_time": "7:23 AM",
+        "reason": "Phoca vitulina"
+    },
+    {
+        "attendace_id": 159,
+        "employee_id": 159,
+        "date": "2/22/2021",
+        "name": "Goldina Keneleyside",
+        "checkIn_time": "3:59 AM",
+        "checkOut_time": "7:02 AM",
+        "reason": "Phalacrocorax varius"
+    },
+    {
+        "attendace_id": 160,
+        "employee_id": 160,
+        "date": "1/3/2021",
+        "name": "Goraud Dahlberg",
+        "checkIn_time": "1:31 PM",
+        "checkOut_time": "4:33 AM",
+        "reason": "Otaria flavescens"
+    },
+    {
+        "attendace_id": 161,
+        "employee_id": 161,
+        "date": "1/4/2021",
+        "name": "Dore Heggison",
+        "checkIn_time": "4:52 AM",
+        "checkOut_time": "10:32 AM",
+        "reason": "Paraxerus cepapi"
+    },
+    {
+        "attendace_id": 162,
+        "employee_id": 162,
+        "date": "12/22/2020",
+        "name": "Fleur Gambrell",
+        "checkIn_time": "12:19 AM",
+        "checkOut_time": "3:37 PM",
+        "reason": "Panthera leo persica"
+    },
+    {
+        "attendace_id": 163,
+        "employee_id": 163,
+        "date": "1/29/2021",
+        "name": "Berta Tavner",
+        "checkIn_time": "9:14 AM",
+        "checkOut_time": "7:17 AM",
+        "reason": "Phalacrocorax niger"
+    },
+    {
+        "attendace_id": 164,
+        "employee_id": 164,
+        "date": "1/1/2021",
+        "name": "Raviv McElree",
+        "checkIn_time": "7:40 PM",
+        "checkOut_time": "3:08 PM",
+        "reason": "Trachyphonus vaillantii"
+    },
+    {
+        "attendace_id": 165,
+        "employee_id": 165,
+        "date": "12/22/2020",
+        "name": "Jemie Jenk",
+        "checkIn_time": "1:41 AM",
+        "checkOut_time": "1:47 AM",
+        "reason": "Spermophilus richardsonii"
+    },
+    {
+        "attendace_id": 166,
+        "employee_id": 166,
+        "date": "10/8/2020",
+        "name": "Randi Jiroutek",
+        "checkIn_time": "4:12 AM",
+        "checkOut_time": "9:57 PM",
+        "reason": "Didelphis virginiana"
+    },
+    {
+        "attendace_id": 167,
+        "employee_id": 167,
+        "date": "3/7/2021",
+        "name": "Daphene Sacco",
+        "checkIn_time": "8:54 PM",
+        "checkOut_time": "4:50 PM",
+        "reason": "Chordeiles minor"
+    },
+    {
+        "attendace_id": 168,
+        "employee_id": 168,
+        "date": "11/14/2020",
+        "name": "Freeland Muddiman",
+        "checkIn_time": "6:04 AM",
+        "checkOut_time": "3:03 PM",
+        "reason": "Ramphastos tucanus"
+    },
+    {
+        "attendace_id": 169,
+        "employee_id": 169,
+        "date": "1/1/2021",
+        "name": "Darlleen Embleton",
+        "checkIn_time": "3:51 PM",
+        "checkOut_time": "11:50 AM",
+        "reason": "Phascogale calura"
+    },
+    {
+        "attendace_id": 170,
+        "employee_id": 170,
+        "date": "5/25/2021",
+        "name": "Marianne Collimore",
+        "checkIn_time": "7:31 AM",
+        "checkOut_time": "8:13 AM",
+        "reason": "Irania gutteralis"
+    },
+    {
+        "attendace_id": 171,
+        "employee_id": 171,
+        "date": "6/22/2021",
+        "name": "Devlen Benley",
+        "checkIn_time": "7:17 AM",
+        "checkOut_time": "11:33 PM",
+        "reason": "Ursus arctos"
+    },
+    {
+        "attendace_id": 172,
+        "employee_id": 172,
+        "date": "5/26/2021",
+        "name": "Bernadine Fessby",
+        "checkIn_time": "8:52 AM",
+        "checkOut_time": "9:42 PM",
+        "reason": "Hymenolaimus malacorhynchus"
+    },
+    {
+        "attendace_id": 173,
+        "employee_id": 173,
+        "date": "10/19/2020",
+        "name": "Agustin Wyness",
+        "checkIn_time": "12:47 PM",
+        "checkOut_time": "3:36 AM",
+        "reason": "Ctenophorus ornatus"
+    },
+    {
+        "attendace_id": 174,
+        "employee_id": 174,
+        "date": "4/29/2021",
+        "name": "Waylen Shipway",
+        "checkIn_time": "2:45 PM",
+        "checkOut_time": "4:41 PM",
+        "reason": "Sylvicapra grimma"
+    },
+    {
+        "attendace_id": 175,
+        "employee_id": 175,
+        "date": "10/6/2020",
+        "name": "Addie McEachern",
+        "checkIn_time": "1:21 PM",
+        "checkOut_time": "4:15 AM",
+        "reason": "Haliaetus leucogaster"
+    },
+    {
+        "attendace_id": 176,
+        "employee_id": 176,
+        "date": "5/13/2021",
+        "name": "Hermie Chant",
+        "checkIn_time": "11:24 AM",
+        "checkOut_time": "9:35 PM",
+        "reason": "Corvus albus"
+    },
+    {
+        "attendace_id": 177,
+        "employee_id": 177,
+        "date": "7/18/2021",
+        "name": "Leonhard Kollas",
+        "checkIn_time": "6:35 PM",
+        "checkOut_time": "4:02 PM",
+        "reason": "Eudyptula minor"
+    },
+    {
+        "attendace_id": 178,
+        "employee_id": 178,
+        "date": "4/3/2021",
+        "name": "Tremayne Darmody",
+        "checkIn_time": "1:24 AM",
+        "checkOut_time": "4:33 AM",
+        "reason": "Zenaida asiatica"
+    },
+    {
+        "attendace_id": 179,
+        "employee_id": 179,
+        "date": "2/1/2021",
+        "name": "Stefano Pargeter",
+        "checkIn_time": "1:23 PM",
+        "checkOut_time": "3:14 AM",
+        "reason": "Cervus duvauceli"
+    },
+    {
+        "attendace_id": 180,
+        "employee_id": 180,
+        "date": "4/18/2021",
+        "name": "Jacky Jeyes",
+        "checkIn_time": "12:58 PM",
+        "checkOut_time": "7:41 PM",
+        "reason": "Phascogale calura"
+    },
+    {
+        "attendace_id": 181,
+        "employee_id": 181,
+        "date": "1/1/2021",
+        "name": "Ashlee Woodeson",
+        "checkIn_time": "1:28 AM",
+        "checkOut_time": "2:01 PM",
+        "reason": "Eumetopias jubatus"
+    },
+    {
+        "attendace_id": 182,
+        "employee_id": 182,
+        "date": "8/18/2021",
+        "name": "Brant Iwanicki",
+        "checkIn_time": "1:15 AM",
+        "checkOut_time": "6:48 AM",
+        "reason": "Platalea leucordia"
+    },
+    {
+        "attendace_id": 183,
+        "employee_id": 183,
+        "date": "12/16/2020",
+        "name": "Gunilla Joselin",
+        "checkIn_time": "12:03 AM",
+        "checkOut_time": "10:00 PM",
+        "reason": "Geochelone elephantopus"
+    },
+    {
+        "attendace_id": 184,
+        "employee_id": 184,
+        "date": "1/12/2021",
+        "name": "Kyrstin Oldis",
+        "checkIn_time": "7:04 PM",
+        "checkOut_time": "11:31 PM",
+        "reason": "Platalea leucordia"
+    },
+    {
+        "attendace_id": 185,
+        "employee_id": 185,
+        "date": "9/2/2021",
+        "name": "Lydia Hanks",
+        "checkIn_time": "9:36 AM",
+        "checkOut_time": "12:03 AM",
+        "reason": "Pterocles gutturalis"
+    },
+    {
+        "attendace_id": 186,
+        "employee_id": 186,
+        "date": "2/11/2021",
+        "name": "Ayn Dunstan",
+        "checkIn_time": "6:18 PM",
+        "checkOut_time": "8:24 PM",
+        "reason": "Galictis vittata"
+    },
+    {
+        "attendace_id": 187,
+        "employee_id": 187,
+        "date": "5/27/2021",
+        "name": "Kat Malicki",
+        "checkIn_time": "6:29 AM",
+        "checkOut_time": "4:43 AM",
+        "reason": "Anhinga rufa"
+    },
+    {
+        "attendace_id": 188,
+        "employee_id": 188,
+        "date": "12/20/2020",
+        "name": "Claybourne Rollings",
+        "checkIn_time": "3:23 PM",
+        "checkOut_time": "6:52 AM",
+        "reason": "Myrmecophaga tridactyla"
+    },
+    {
+        "attendace_id": 189,
+        "employee_id": 189,
+        "date": "7/20/2021",
+        "name": "Suki Boat",
+        "checkIn_time": "4:18 AM",
+        "checkOut_time": "10:11 AM",
+        "reason": "Junonia genoveua"
+    },
+    {
+        "attendace_id": 190,
+        "employee_id": 190,
+        "date": "7/1/2021",
+        "name": "Evy Wybrow",
+        "checkIn_time": "9:24 AM",
+        "checkOut_time": "5:59 AM",
+        "reason": "Phascogale calura"
+    },
+    {
+        "attendace_id": 191,
+        "employee_id": 191,
+        "date": "9/11/2021",
+        "name": "Horatius Jurkowski",
+        "checkIn_time": "6:11 AM",
+        "checkOut_time": "5:24 AM",
+        "reason": "Falco peregrinus"
+    },
+    {
+        "attendace_id": 192,
+        "employee_id": 192,
+        "date": "12/29/2020",
+        "name": "Gail Gionettitti",
+        "checkIn_time": "3:29 PM",
+        "checkOut_time": "11:31 AM",
+        "reason": "Tockus erythrorhyncus"
+    },
+    {
+        "attendace_id": 193,
+        "employee_id": 193,
+        "date": "9/5/2021",
+        "name": "Thomasina Aleksashin",
+        "checkIn_time": "4:30 AM",
+        "checkOut_time": "2:47 AM",
+        "reason": "Pytilia melba"
+    },
+    {
+        "attendace_id": 194,
+        "employee_id": 194,
+        "date": "10/7/2020",
+        "name": "Robyn Halpen",
+        "checkIn_time": "10:43 AM",
+        "checkOut_time": "12:40 AM",
+        "reason": "Pseudalopex gymnocercus"
+    },
+    {
+        "attendace_id": 195,
+        "employee_id": 195,
+        "date": "8/5/2021",
+        "name": "Shayla Townes",
+        "checkIn_time": "9:56 AM",
+        "checkOut_time": "8:02 PM",
+        "reason": "Epicrates cenchria maurus"
+    },
+    {
+        "attendace_id": 196,
+        "employee_id": 196,
+        "date": "7/11/2021",
+        "name": "Chelsie Croxall",
+        "checkIn_time": "5:00 PM",
+        "checkOut_time": "8:02 PM",
+        "reason": "Cyrtodactylus louisiadensis"
+    },
+    {
+        "attendace_id": 197,
+        "employee_id": 197,
+        "date": "11/24/2020",
+        "name": "Othilia Toomey",
+        "checkIn_time": "5:27 PM",
+        "checkOut_time": "10:46 AM",
+        "reason": "Tapirus terrestris"
+    },
+    {
+        "attendace_id": 198,
+        "employee_id": 198,
+        "date": "11/9/2020",
+        "name": "Juanita Treagus",
+        "checkIn_time": "11:17 AM",
+        "checkOut_time": "10:45 PM",
+        "reason": "Phalaropus fulicarius"
+    },
+    {
+        "attendace_id": 199,
+        "employee_id": 199,
+        "date": "5/26/2021",
+        "name": "Jacquette Bramley",
+        "checkIn_time": "10:29 AM",
+        "checkOut_time": "3:44 AM",
+        "reason": "Ictonyx striatus"
+    },
+    {
+        "attendace_id": 200,
+        "employee_id": 200,
+        "date": "11/9/2020",
+        "name": "Erda Bulbrook",
+        "checkIn_time": "1:35 AM",
+        "checkOut_time": "2:50 PM",
+        "reason": "Mirounga angustirostris"
+    },
+    {
+        "attendace_id": 201,
+        "employee_id": 201,
+        "date": "3/25/2021",
+        "name": "Mordecai Eltone",
+        "checkIn_time": "10:24 AM",
+        "checkOut_time": "3:31 AM",
+        "reason": "Platalea leucordia"
+    },
+    {
+        "attendace_id": 202,
+        "employee_id": 202,
+        "date": "2/11/2021",
+        "name": "Rheta Watman",
+        "checkIn_time": "12:11 AM",
+        "checkOut_time": "1:36 PM",
+        "reason": "Boa constrictor mexicana"
+    },
+    {
+        "attendace_id": 203,
+        "employee_id": 203,
+        "date": "6/10/2021",
+        "name": "Shanna Alven",
+        "checkIn_time": "2:14 AM",
+        "checkOut_time": "4:32 PM",
+        "reason": "Ara ararauna"
+    },
+    {
+        "attendace_id": 204,
+        "employee_id": 204,
+        "date": "5/21/2021",
+        "name": "Sibylle Denne",
+        "checkIn_time": "6:33 PM",
+        "checkOut_time": "11:50 PM",
+        "reason": "Vulpes chama"
+    },
+    {
+        "attendace_id": 205,
+        "employee_id": 205,
+        "date": "7/2/2021",
+        "name": "Reynolds Kiely",
+        "checkIn_time": "6:24 PM",
+        "checkOut_time": "2:44 PM",
+        "reason": "Centrocercus urophasianus"
+    },
+    {
+        "attendace_id": 206,
+        "employee_id": 206,
+        "date": "10/21/2020",
+        "name": "Aime Alldritt",
+        "checkIn_time": "5:38 PM",
+        "checkOut_time": "3:04 PM",
+        "reason": "Ovis orientalis"
+    },
+    {
+        "attendace_id": 207,
+        "employee_id": 207,
+        "date": "2/17/2021",
+        "name": "Otes Toderi",
+        "checkIn_time": "9:48 AM",
+        "checkOut_time": "10:53 PM",
+        "reason": "Phascogale calura"
+    },
+    {
+        "attendace_id": 208,
+        "employee_id": 208,
+        "date": "5/4/2021",
+        "name": "Roxana Barrow",
+        "checkIn_time": "12:07 AM",
+        "checkOut_time": "8:02 PM",
+        "reason": "Odocoilenaus virginianus"
+    },
+    {
+        "attendace_id": 209,
+        "employee_id": 209,
+        "date": "5/19/2021",
+        "name": "Gerry Benfell",
+        "checkIn_time": "5:10 PM",
+        "checkOut_time": "7:03 PM",
+        "reason": "Aegypius tracheliotus"
+    },
+    {
+        "attendace_id": 210,
+        "employee_id": 210,
+        "date": "4/26/2021",
+        "name": "Evy Battersby",
+        "checkIn_time": "6:55 PM",
+        "checkOut_time": "4:23 AM",
+        "reason": "Platalea leucordia"
+    },
+    {
+        "attendace_id": 211,
+        "employee_id": 211,
+        "date": "6/28/2021",
+        "name": "Latia Gottschalk",
+        "checkIn_time": "8:15 PM",
+        "checkOut_time": "11:34 AM",
+        "reason": "Agkistrodon piscivorus"
+    },
+    {
+        "attendace_id": 212,
+        "employee_id": 212,
+        "date": "11/5/2020",
+        "name": "Ludovika Swenson",
+        "checkIn_time": "12:51 PM",
+        "checkOut_time": "1:53 PM",
+        "reason": "Tachyglossus aculeatus"
+    },
+    {
+        "attendace_id": 213,
+        "employee_id": 213,
+        "date": "6/18/2021",
+        "name": "Genia Scoggins",
+        "checkIn_time": "7:51 PM",
+        "checkOut_time": "12:49 AM",
+        "reason": "Drymarchon corias couperi"
+    },
+    {
+        "attendace_id": 214,
+        "employee_id": 214,
+        "date": "9/26/2021",
+        "name": "Beth Martugin",
+        "checkIn_time": "6:56 AM",
+        "checkOut_time": "2:10 AM",
+        "reason": "Canis dingo"
+    },
+    {
+        "attendace_id": 215,
+        "employee_id": 215,
+        "date": "2/21/2021",
+        "name": "Gavan Wilkennson",
+        "checkIn_time": "11:47 AM",
+        "checkOut_time": "5:38 AM",
+        "reason": "Agouti paca"
+    },
+    {
+        "attendace_id": 216,
+        "employee_id": 216,
+        "date": "2/15/2021",
+        "name": "Beth Randlesome",
+        "checkIn_time": "6:52 PM",
+        "checkOut_time": "11:40 AM",
+        "reason": "Alopex lagopus"
+    },
+    {
+        "attendace_id": 217,
+        "employee_id": 217,
+        "date": "9/23/2021",
+        "name": "Zarla Pemberton",
+        "checkIn_time": "11:03 PM",
+        "checkOut_time": "9:42 AM",
+        "reason": "Didelphis virginiana"
+    },
+    {
+        "attendace_id": 218,
+        "employee_id": 218,
+        "date": "8/17/2021",
+        "name": "Lotty Wheatley",
+        "checkIn_time": "12:22 PM",
+        "checkOut_time": "7:43 PM",
+        "reason": "Leprocaulinus vipera"
+    },
+    {
+        "attendace_id": 219,
+        "employee_id": 219,
+        "date": "11/22/2020",
+        "name": "Debbi Bielfeld",
+        "checkIn_time": "6:44 AM",
+        "checkOut_time": "5:44 PM",
+        "reason": "Diceros bicornis"
+    },
+    {
+        "attendace_id": 220,
+        "employee_id": 220,
+        "date": "3/2/2021",
+        "name": "Vittoria Valentim",
+        "checkIn_time": "11:57 AM",
+        "checkOut_time": "12:03 AM",
+        "reason": "Butorides striatus"
+    },
+    {
+        "attendace_id": 221,
+        "employee_id": 221,
+        "date": "9/23/2021",
+        "name": "Rahel Bellwood",
+        "checkIn_time": "3:27 PM",
+        "checkOut_time": "6:14 PM",
+        "reason": "Connochaetus taurinus"
+    },
+    {
+        "attendace_id": 222,
+        "employee_id": 222,
+        "date": "10/7/2020",
+        "name": "Dinnie Drewitt",
+        "checkIn_time": "9:38 PM",
+        "checkOut_time": "8:26 PM",
+        "reason": "Castor fiber"
+    },
+    {
+        "attendace_id": 223,
+        "employee_id": 223,
+        "date": "6/15/2021",
+        "name": "Grover Manginot",
+        "checkIn_time": "4:50 PM",
+        "checkOut_time": "1:16 AM",
+        "reason": "Macaca mulatta"
+    },
+    {
+        "attendace_id": 224,
+        "employee_id": 224,
+        "date": "7/19/2021",
+        "name": "Bonni Tesmond",
+        "checkIn_time": "2:00 PM",
+        "checkOut_time": "1:29 PM",
+        "reason": "Calyptorhynchus magnificus"
+    },
+    {
+        "attendace_id": 225,
+        "employee_id": 225,
+        "date": "12/23/2020",
+        "name": "Zach Hollyland",
+        "checkIn_time": "8:14 PM",
+        "checkOut_time": "3:33 AM",
+        "reason": "Ceryle rudis"
+    },
+    {
+        "attendace_id": 226,
+        "employee_id": 226,
+        "date": "11/2/2020",
+        "name": "Charmaine Conman",
+        "checkIn_time": "6:08 AM",
+        "checkOut_time": "9:23 AM",
+        "reason": "Odocoileus hemionus"
+    },
+    {
+        "attendace_id": 227,
+        "employee_id": 227,
+        "date": "4/3/2021",
+        "name": "Maddie Gregine",
+        "checkIn_time": "8:08 AM",
+        "checkOut_time": "6:45 AM",
+        "reason": "Crotalus adamanteus"
+    },
+    {
+        "attendace_id": 228,
+        "employee_id": 228,
+        "date": "6/4/2021",
+        "name": "Bobby Feitosa",
+        "checkIn_time": "4:41 PM",
+        "checkOut_time": "7:15 PM",
+        "reason": "Ara ararauna"
+    },
+    {
+        "attendace_id": 229,
+        "employee_id": 229,
+        "date": "4/12/2021",
+        "name": "Roxi Neubigin",
+        "checkIn_time": "2:46 PM",
+        "checkOut_time": "5:07 PM",
+        "reason": "Dusicyon thous"
+    },
+    {
+        "attendace_id": 230,
+        "employee_id": 230,
+        "date": "7/22/2021",
+        "name": "Osmond Goddman",
+        "checkIn_time": "5:06 AM",
+        "checkOut_time": "7:34 AM",
+        "reason": "Ovis ammon"
+    },
+    {
+        "attendace_id": 231,
+        "employee_id": 231,
+        "date": "12/28/2020",
+        "name": "Yevette Frantzeni",
+        "checkIn_time": "12:06 AM",
+        "checkOut_time": "6:23 PM",
+        "reason": "Trichosurus vulpecula"
+    },
+    {
+        "attendace_id": 232,
+        "employee_id": 232,
+        "date": "5/10/2021",
+        "name": "Findlay Magister",
+        "checkIn_time": "8:56 AM",
+        "checkOut_time": "1:53 PM",
+        "reason": "Eolophus roseicapillus"
+    },
+    {
+        "attendace_id": 233,
+        "employee_id": 233,
+        "date": "10/1/2021",
+        "name": "Brock Sinton",
+        "checkIn_time": "10:31 AM",
+        "checkOut_time": "11:09 PM",
+        "reason": "Morelia spilotes variegata"
+    },
+    {
+        "attendace_id": 234,
+        "employee_id": 234,
+        "date": "2/8/2021",
+        "name": "Luisa Geale",
+        "checkIn_time": "8:36 PM",
+        "checkOut_time": "9:40 AM",
+        "reason": "Centrocercus urophasianus"
+    },
+    {
+        "attendace_id": 235,
+        "employee_id": 235,
+        "date": "12/28/2020",
+        "name": "Lodovico Gorgler",
+        "checkIn_time": "3:59 AM",
+        "checkOut_time": "2:15 AM",
+        "reason": "unavailable"
+    },
+    {
+        "attendace_id": 236,
+        "employee_id": 236,
+        "date": "12/2/2020",
+        "name": "Kaela Hatherley",
+        "checkIn_time": "5:50 PM",
+        "checkOut_time": "8:09 PM",
+        "reason": "Sus scrofa"
+    },
+    {
+        "attendace_id": 237,
+        "employee_id": 237,
+        "date": "4/26/2021",
+        "name": "Delmor Bech",
+        "checkIn_time": "5:24 AM",
+        "checkOut_time": "3:49 AM",
+        "reason": "Pseudalopex gymnocercus"
+    },
+    {
+        "attendace_id": 238,
+        "employee_id": 238,
+        "date": "5/19/2021",
+        "name": "Kristo Dorward",
+        "checkIn_time": "7:17 AM",
+        "checkOut_time": "6:09 PM",
+        "reason": "Climacteris melanura"
+    },
+    {
+        "attendace_id": 239,
+        "employee_id": 239,
+        "date": "2/23/2021",
+        "name": "Nannette Danilovic",
+        "checkIn_time": "12:44 AM",
+        "checkOut_time": "8:54 PM",
+        "reason": "unavailable"
+    },
+    {
+        "attendace_id": 240,
+        "employee_id": 240,
+        "date": "3/9/2021",
+        "name": "York Macrae",
+        "checkIn_time": "8:02 PM",
+        "checkOut_time": "12:33 PM",
+        "reason": "Prionace glauca"
+    },
+    {
+        "attendace_id": 241,
+        "employee_id": 241,
+        "date": "11/3/2020",
+        "name": "Koenraad Crux",
+        "checkIn_time": "12:07 PM",
+        "checkOut_time": "5:54 PM",
+        "reason": "Ictonyx striatus"
+    },
+    {
+        "attendace_id": 242,
+        "employee_id": 242,
+        "date": "6/16/2021",
+        "name": "Gweneth Paradine",
+        "checkIn_time": "2:11 AM",
+        "checkOut_time": "12:53 PM",
+        "reason": "Lama glama"
+    },
+    {
+        "attendace_id": 243,
+        "employee_id": 243,
+        "date": "11/25/2020",
+        "name": "Thorn Probbin",
+        "checkIn_time": "8:30 PM",
+        "checkOut_time": "8:19 AM",
+        "reason": "Microcebus murinus"
+    },
+    {
+        "attendace_id": 244,
+        "employee_id": 244,
+        "date": "11/6/2020",
+        "name": "Saidee Edgecombe",
+        "checkIn_time": "1:01 PM",
+        "checkOut_time": "6:40 PM",
+        "reason": "Pseudalopex gymnocercus"
+    },
+    {
+        "attendace_id": 245,
+        "employee_id": 245,
+        "date": "8/29/2021",
+        "name": "Kevyn Durn",
+        "checkIn_time": "10:51 PM",
+        "checkOut_time": "4:16 AM",
+        "reason": "Varanus albigularis"
+    },
+    {
+        "attendace_id": 246,
+        "employee_id": 246,
+        "date": "9/6/2021",
+        "name": "Nicoli Braund",
+        "checkIn_time": "11:42 AM",
+        "checkOut_time": "4:09 AM",
+        "reason": "Cochlearius cochlearius"
+    },
+    {
+        "attendace_id": 247,
+        "employee_id": 247,
+        "date": "3/17/2021",
+        "name": "Stephani Attrie",
+        "checkIn_time": "3:48 AM",
+        "checkOut_time": "8:51 PM",
+        "reason": "Phoenicopterus ruber"
+    },
+    {
+        "attendace_id": 248,
+        "employee_id": 248,
+        "date": "1/10/2021",
+        "name": "Town Potticary",
+        "checkIn_time": "10:35 PM",
+        "checkOut_time": "8:53 AM",
+        "reason": "Dusicyon thous"
+    },
+    {
+        "attendace_id": 249,
+        "employee_id": 249,
+        "date": "11/29/2020",
+        "name": "Benji Bolsteridge",
+        "checkIn_time": "6:52 AM",
+        "checkOut_time": "8:28 PM",
+        "reason": "Ara ararauna"
+    },
+    {
+        "attendace_id": 250,
+        "employee_id": 250,
+        "date": "3/8/2021",
+        "name": "Serena Rockey",
+        "checkIn_time": "5:45 AM",
+        "checkOut_time": "12:59 AM",
+        "reason": "Spizaetus coronatus"
+    },
+    {
+        "attendace_id": 251,
+        "employee_id": 251,
+        "date": "11/15/2020",
+        "name": "Myrvyn Branscomb",
+        "checkIn_time": "5:29 AM",
+        "checkOut_time": "5:50 PM",
+        "reason": "Neophoca cinerea"
+    },
+    {
+        "attendace_id": 252,
+        "employee_id": 252,
+        "date": "10/10/2020",
+        "name": "Annetta O'Rudden",
+        "checkIn_time": "11:34 PM",
+        "checkOut_time": "2:47 PM",
+        "reason": "Coluber constrictor"
+    },
+    {
+        "attendace_id": 253,
+        "employee_id": 253,
+        "date": "2/16/2021",
+        "name": "Zondra Starkie",
+        "checkIn_time": "2:49 AM",
+        "checkOut_time": "6:15 AM",
+        "reason": "Sus scrofa"
+    },
+    {
+        "attendace_id": 254,
+        "employee_id": 254,
+        "date": "3/11/2021",
+        "name": "Spike Goslin",
+        "checkIn_time": "8:53 AM",
+        "checkOut_time": "1:12 PM",
+        "reason": "Pseudalopex gymnocercus"
+    },
+    {
+        "attendace_id": 255,
+        "employee_id": 255,
+        "date": "12/9/2020",
+        "name": "Royal Habbeshaw",
+        "checkIn_time": "12:22 PM",
+        "checkOut_time": "6:53 PM",
+        "reason": "Leprocaulinus vipera"
+    },
+    {
+        "attendace_id": 256,
+        "employee_id": 256,
+        "date": "6/15/2021",
+        "name": "Inglebert MacMychem",
+        "checkIn_time": "11:57 AM",
+        "checkOut_time": "11:47 PM",
+        "reason": "Vanellus armatus"
+    },
+    {
+        "attendace_id": 257,
+        "employee_id": 257,
+        "date": "10/27/2020",
+        "name": "Astrid MacEllen",
+        "checkIn_time": "11:07 PM",
+        "checkOut_time": "4:24 AM",
+        "reason": "Dendrocitta vagabunda"
+    },
+    {
+        "attendace_id": 258,
+        "employee_id": 258,
+        "date": "11/11/2020",
+        "name": "Marion Rookledge",
+        "checkIn_time": "6:49 AM",
+        "checkOut_time": "10:11 PM",
+        "reason": "Sterna paradisaea"
+    },
+    {
+        "attendace_id": 259,
+        "employee_id": 259,
+        "date": "6/11/2021",
+        "name": "Brice Geall",
+        "checkIn_time": "9:16 AM",
+        "checkOut_time": "7:27 AM",
+        "reason": "Ramphastos tucanus"
+    },
+    {
+        "attendace_id": 260,
+        "employee_id": 260,
+        "date": "5/20/2021",
+        "name": "Chryste Edgley",
+        "checkIn_time": "5:58 PM",
+        "checkOut_time": "6:15 AM",
+        "reason": "Haliaetus leucogaster"
+    },
+    {
+        "attendace_id": 261,
+        "employee_id": 261,
+        "date": "7/25/2021",
+        "name": "Dominica Brahms",
+        "checkIn_time": "10:26 PM",
+        "checkOut_time": "9:25 PM",
+        "reason": "Tragelaphus strepsiceros"
+    },
+    {
+        "attendace_id": 262,
+        "employee_id": 262,
+        "date": "4/23/2021",
+        "name": "Kellina Crouse",
+        "checkIn_time": "12:03 AM",
+        "checkOut_time": "11:59 AM",
+        "reason": "Erethizon dorsatum"
+    },
+    {
+        "attendace_id": 263,
+        "employee_id": 263,
+        "date": "3/21/2021",
+        "name": "Shep Taylour",
+        "checkIn_time": "9:22 AM",
+        "checkOut_time": "1:13 PM",
+        "reason": "Stenella coeruleoalba"
+    },
+    {
+        "attendace_id": 264,
+        "employee_id": 264,
+        "date": "4/23/2021",
+        "name": "Vaughan Frizzell",
+        "checkIn_time": "11:00 AM",
+        "checkOut_time": "7:36 AM",
+        "reason": "Climacteris melanura"
+    },
+    {
+        "attendace_id": 265,
+        "employee_id": 265,
+        "date": "9/19/2021",
+        "name": "Ossie Durdle",
+        "checkIn_time": "9:47 AM",
+        "checkOut_time": "7:09 PM",
+        "reason": "Hippopotamus amphibius"
+    },
+    {
+        "attendace_id": 266,
+        "employee_id": 266,
+        "date": "8/27/2021",
+        "name": "Torry Meth",
+        "checkIn_time": "10:49 AM",
+        "checkOut_time": "2:51 AM",
+        "reason": "Sarcorhamphus papa"
+    },
+    {
+        "attendace_id": 267,
+        "employee_id": 267,
+        "date": "5/13/2021",
+        "name": "Charis Frayne",
+        "checkIn_time": "8:17 PM",
+        "checkOut_time": "7:39 PM",
+        "reason": "Lepus townsendii"
+    },
+    {
+        "attendace_id": 268,
+        "employee_id": 268,
+        "date": "12/23/2020",
+        "name": "Cassius Holby",
+        "checkIn_time": "4:43 AM",
+        "checkOut_time": "10:29 AM",
+        "reason": "Sitta canadensis"
+    },
+    {
+        "attendace_id": 269,
+        "employee_id": 269,
+        "date": "1/3/2021",
+        "name": "Leanna Badger",
+        "checkIn_time": "6:04 AM",
+        "checkOut_time": "2:43 PM",
+        "reason": "Haliaetus leucogaster"
+    },
+    {
+        "attendace_id": 270,
+        "employee_id": 270,
+        "date": "1/25/2021",
+        "name": "Felic Greatorex",
+        "checkIn_time": "12:33 AM",
+        "checkOut_time": "3:50 PM",
+        "reason": "Dasyurus maculatus"
+    },
+    {
+        "attendace_id": 271,
+        "employee_id": 271,
+        "date": "4/15/2021",
+        "name": "Gunner Cookes",
+        "checkIn_time": "2:25 PM",
+        "checkOut_time": "9:36 PM",
+        "reason": "Naja haje"
+    },
+    {
+        "attendace_id": 272,
+        "employee_id": 272,
+        "date": "5/18/2021",
+        "name": "Maison Peggs",
+        "checkIn_time": "12:17 AM",
+        "checkOut_time": "7:29 AM",
+        "reason": "Cereopsis novaehollandiae"
+    },
+    {
+        "attendace_id": 273,
+        "employee_id": 273,
+        "date": "12/6/2020",
+        "name": "Brandice Gibling",
+        "checkIn_time": "6:11 PM",
+        "checkOut_time": "10:17 PM",
+        "reason": "Hippotragus niger"
+    },
+    {
+        "attendace_id": 274,
+        "employee_id": 274,
+        "date": "3/5/2021",
+        "name": "Ave Biasio",
+        "checkIn_time": "2:58 PM",
+        "checkOut_time": "8:58 PM",
+        "reason": "Camelus dromedarius"
+    },
+    {
+        "attendace_id": 275,
+        "employee_id": 275,
+        "date": "1/15/2021",
+        "name": "Padgett Gredden",
+        "checkIn_time": "9:16 AM",
+        "checkOut_time": "12:20 AM",
+        "reason": "Macropus rufogriseus"
+    },
+    {
+        "attendace_id": 276,
+        "employee_id": 276,
+        "date": "2/16/2021",
+        "name": "Bridget Segot",
+        "checkIn_time": "9:14 AM",
+        "checkOut_time": "5:38 AM",
+        "reason": "Sula nebouxii"
+    },
+    {
+        "attendace_id": 277,
+        "employee_id": 277,
+        "date": "12/3/2020",
+        "name": "Kelly Flewan",
+        "checkIn_time": "5:36 PM",
+        "checkOut_time": "2:50 AM",
+        "reason": "Calyptorhynchus magnificus"
+    },
+    {
+        "attendace_id": 278,
+        "employee_id": 278,
+        "date": "5/15/2021",
+        "name": "Gabrielle Leys",
+        "checkIn_time": "5:50 AM",
+        "checkOut_time": "3:13 PM",
+        "reason": "Terathopius ecaudatus"
+    },
+    {
+        "attendace_id": 279,
+        "employee_id": 279,
+        "date": "8/5/2021",
+        "name": "Cissy Wagen",
+        "checkIn_time": "10:58 PM",
+        "checkOut_time": "7:05 AM",
+        "reason": "Pycnonotus nigricans"
+    },
+    {
+        "attendace_id": 280,
+        "employee_id": 280,
+        "date": "5/25/2021",
+        "name": "Isabelle Stichall",
+        "checkIn_time": "12:11 PM",
+        "checkOut_time": "6:13 AM",
+        "reason": "Stercorarius longicausus"
+    },
+    {
+        "attendace_id": 281,
+        "employee_id": 281,
+        "date": "10/13/2020",
+        "name": "Danie Point",
+        "checkIn_time": "12:29 PM",
+        "checkOut_time": "9:29 AM",
+        "reason": "Phalacrocorax carbo"
+    },
+    {
+        "attendace_id": 282,
+        "employee_id": 282,
+        "date": "2/21/2021",
+        "name": "Jakob Alejo",
+        "checkIn_time": "8:58 PM",
+        "checkOut_time": "1:38 AM",
+        "reason": "Creagrus furcatus"
+    },
+    {
+        "attendace_id": 283,
+        "employee_id": 283,
+        "date": "2/14/2021",
+        "name": "Burt Redmain",
+        "checkIn_time": "8:05 PM",
+        "checkOut_time": "1:17 PM",
+        "reason": "Eolophus roseicapillus"
+    },
+    {
+        "attendace_id": 284,
+        "employee_id": 284,
+        "date": "12/2/2020",
+        "name": "Neddie Kleinmann",
+        "checkIn_time": "12:01 AM",
+        "checkOut_time": "2:05 PM",
+        "reason": "Pteronura brasiliensis"
+    },
+    {
+        "attendace_id": 285,
+        "employee_id": 285,
+        "date": "3/3/2021",
+        "name": "Nevin Beringer",
+        "checkIn_time": "4:42 AM",
+        "checkOut_time": "12:38 AM",
+        "reason": "Nasua nasua"
+    },
+    {
+        "attendace_id": 286,
+        "employee_id": 286,
+        "date": "9/23/2021",
+        "name": "Doll Stripling",
+        "checkIn_time": "11:58 PM",
+        "checkOut_time": "1:52 AM",
+        "reason": "Isoodon obesulus"
+    },
+    {
+        "attendace_id": 287,
+        "employee_id": 287,
+        "date": "9/4/2021",
+        "name": "Adam Wagstaff",
+        "checkIn_time": "9:17 PM",
+        "checkOut_time": "3:12 AM",
+        "reason": "Vulpes chama"
+    },
+    {
+        "attendace_id": 288,
+        "employee_id": 288,
+        "date": "2/8/2021",
+        "name": "Dwight Hanselmann",
+        "checkIn_time": "12:27 AM",
+        "checkOut_time": "12:40 AM",
+        "reason": "Streptopelia senegalensis"
+    },
+    {
+        "attendace_id": 289,
+        "employee_id": 289,
+        "date": "11/12/2020",
+        "name": "Corbett Backshill",
+        "checkIn_time": "7:08 PM",
+        "checkOut_time": "5:26 AM",
+        "reason": "Crotaphytus collaris"
+    },
+    {
+        "attendace_id": 290,
+        "employee_id": 290,
+        "date": "6/4/2021",
+        "name": "Mellicent Charlwood",
+        "checkIn_time": "6:58 AM",
+        "checkOut_time": "3:22 AM",
+        "reason": "Sceloporus magister"
+    },
+    {
+        "attendace_id": 291,
+        "employee_id": 291,
+        "date": "1/10/2021",
+        "name": "Delly Mance",
+        "checkIn_time": "9:56 PM",
+        "checkOut_time": "4:42 AM",
+        "reason": "Canis lupus"
+    },
+    {
+        "attendace_id": 292,
+        "employee_id": 292,
+        "date": "8/21/2021",
+        "name": "Milena McAlpin",
+        "checkIn_time": "6:41 AM",
+        "checkOut_time": "11:09 AM",
+        "reason": "Semnopithecus entellus"
+    },
+    {
+        "attendace_id": 293,
+        "employee_id": 293,
+        "date": "3/18/2021",
+        "name": "Yasmin Clutram",
+        "checkIn_time": "2:52 AM",
+        "checkOut_time": "4:40 PM",
+        "reason": "Aquila chrysaetos"
+    },
+    {
+        "attendace_id": 294,
+        "employee_id": 294,
+        "date": "11/16/2020",
+        "name": "Deva Somerset",
+        "checkIn_time": "3:19 AM",
+        "checkOut_time": "12:04 PM",
+        "reason": "Rhea americana"
+    },
+    {
+        "attendace_id": 295,
+        "employee_id": 295,
+        "date": "9/4/2021",
+        "name": "Davidde Hounihan",
+        "checkIn_time": "7:49 AM",
+        "checkOut_time": "4:02 AM",
+        "reason": "Microcebus murinus"
+    },
+    {
+        "attendace_id": 296,
+        "employee_id": 296,
+        "date": "7/23/2021",
+        "name": "Allie Egle of Germany",
+        "checkIn_time": "6:14 AM",
+        "checkOut_time": "9:54 AM",
+        "reason": "Axis axis"
+    },
+    {
+        "attendace_id": 297,
+        "employee_id": 297,
+        "date": "2/6/2021",
+        "name": "Fran Feasey",
+        "checkIn_time": "8:59 PM",
+        "checkOut_time": "5:05 AM",
+        "reason": "Galictis vittata"
+    },
+    {
+        "attendace_id": 298,
+        "employee_id": 298,
+        "date": "8/27/2021",
+        "name": "Corinna Reinbeck",
+        "checkIn_time": "12:02 PM",
+        "checkOut_time": "4:09 AM",
+        "reason": "Anas bahamensis"
+    },
+    {
+        "attendace_id": 299,
+        "employee_id": 299,
+        "date": "7/24/2021",
+        "name": "Marco Garrioch",
+        "checkIn_time": "10:30 AM",
+        "checkOut_time": "1:54 PM",
+        "reason": "Pycnonotus barbatus"
+    },
+    {
+        "attendace_id": 300,
+        "employee_id": 300,
+        "date": "12/17/2020",
+        "name": "Darbie Hurdedge",
+        "checkIn_time": "5:08 PM",
+        "checkOut_time": "9:18 PM",
+        "reason": "Paroaria gularis"
+    },
+    {
+        "attendace_id": 301,
+        "employee_id": 301,
+        "date": "1/10/2021",
+        "name": "Yvette O'Boyle",
+        "checkIn_time": "4:31 AM",
+        "checkOut_time": "10:05 PM",
+        "reason": "Parus atricapillus"
+    },
+    {
+        "attendace_id": 302,
+        "employee_id": 302,
+        "date": "2/22/2021",
+        "name": "Xever Troup",
+        "checkIn_time": "3:48 AM",
+        "checkOut_time": "5:17 PM",
+        "reason": "Phoenicopterus chilensis"
+    },
+    {
+        "attendace_id": 303,
+        "employee_id": 303,
+        "date": "3/21/2021",
+        "name": "Henka Laverock",
+        "checkIn_time": "9:48 AM",
+        "checkOut_time": "7:52 PM",
+        "reason": "Sitta canadensis"
+    },
+    {
+        "attendace_id": 304,
+        "employee_id": 304,
+        "date": "10/17/2020",
+        "name": "Claudell Ofield",
+        "checkIn_time": "7:35 AM",
+        "checkOut_time": "3:58 AM",
+        "reason": "Lycaon pictus"
+    },
+    {
+        "attendace_id": 305,
+        "employee_id": 305,
+        "date": "4/27/2021",
+        "name": "Janeczka Von Oertzen",
+        "checkIn_time": "2:47 AM",
+        "checkOut_time": "6:28 AM",
+        "reason": "Spheniscus magellanicus"
+    },
+    {
+        "attendace_id": 306,
+        "employee_id": 306,
+        "date": "3/8/2021",
+        "name": "Lulu Drewry",
+        "checkIn_time": "4:15 PM",
+        "checkOut_time": "6:05 PM",
+        "reason": "Halcyon smyrnesis"
+    },
+    {
+        "attendace_id": 307,
+        "employee_id": 307,
+        "date": "3/9/2021",
+        "name": "Annis Giddy",
+        "checkIn_time": "7:34 PM",
+        "checkOut_time": "12:14 AM",
+        "reason": "Lasiodora parahybana"
+    },
+    {
+        "attendace_id": 308,
+        "employee_id": 308,
+        "date": "2/19/2021",
+        "name": "Blayne Thurlbourne",
+        "checkIn_time": "9:43 PM",
+        "checkOut_time": "7:36 PM",
+        "reason": "Falco peregrinus"
+    },
+    {
+        "attendace_id": 309,
+        "employee_id": 309,
+        "date": "10/17/2020",
+        "name": "Lanita McCumskay",
+        "checkIn_time": "10:40 PM",
+        "checkOut_time": "6:03 PM",
+        "reason": "Odocoileus hemionus"
+    },
+    {
+        "attendace_id": 310,
+        "employee_id": 310,
+        "date": "7/21/2021",
+        "name": "Rowen Golton",
+        "checkIn_time": "2:19 AM",
+        "checkOut_time": "8:33 PM",
+        "reason": "Alces alces"
+    },
+    {
+        "attendace_id": 311,
+        "employee_id": 311,
+        "date": "3/30/2021",
+        "name": "Warren Spadazzi",
+        "checkIn_time": "3:58 PM",
+        "checkOut_time": "7:42 AM",
+        "reason": "Aegypius tracheliotus"
+    },
+    {
+        "attendace_id": 312,
+        "employee_id": 312,
+        "date": "5/21/2021",
+        "name": "Tiphanie Kobke",
+        "checkIn_time": "7:40 AM",
+        "checkOut_time": "5:31 PM",
+        "reason": "Helogale undulata"
+    },
+    {
+        "attendace_id": 313,
+        "employee_id": 313,
+        "date": "7/24/2021",
+        "name": "Tandy Baughen",
+        "checkIn_time": "1:04 PM",
+        "checkOut_time": "8:30 PM",
+        "reason": "Zosterops pallidus"
+    },
+    {
+        "attendace_id": 314,
+        "employee_id": 314,
+        "date": "1/14/2021",
+        "name": "Rockey Beldom",
+        "checkIn_time": "6:29 PM",
+        "checkOut_time": "5:34 AM",
+        "reason": "Uraeginthus granatina"
+    },
+    {
+        "attendace_id": 315,
+        "employee_id": 315,
+        "date": "8/2/2021",
+        "name": "Ewart Ridgwell",
+        "checkIn_time": "4:35 PM",
+        "checkOut_time": "10:49 AM",
+        "reason": "Paraxerus cepapi"
+    },
+    {
+        "attendace_id": 316,
+        "employee_id": 316,
+        "date": "10/30/2020",
+        "name": "Brigit Weldrake",
+        "checkIn_time": "11:53 AM",
+        "checkOut_time": "1:18 AM",
+        "reason": "Uraeginthus bengalus"
+    },
+    {
+        "attendace_id": 317,
+        "employee_id": 317,
+        "date": "10/4/2020",
+        "name": "Dodie Beake",
+        "checkIn_time": "7:45 PM",
+        "checkOut_time": "1:58 PM",
+        "reason": "Mellivora capensis"
+    },
+    {
+        "attendace_id": 318,
+        "employee_id": 318,
+        "date": "3/3/2021",
+        "name": "Ethelin Marnane",
+        "checkIn_time": "6:29 AM",
+        "checkOut_time": "5:03 PM",
+        "reason": "Uraeginthus angolensis"
+    },
+    {
+        "attendace_id": 319,
+        "employee_id": 319,
+        "date": "12/28/2020",
+        "name": "Nessy Markovic",
+        "checkIn_time": "7:20 AM",
+        "checkOut_time": "2:14 AM",
+        "reason": "Psophia viridis"
+    },
+    {
+        "attendace_id": 320,
+        "employee_id": 320,
+        "date": "3/22/2021",
+        "name": "Ansel Guitonneau",
+        "checkIn_time": "12:43 PM",
+        "checkOut_time": "5:07 PM",
+        "reason": "Alopex lagopus"
+    },
+    {
+        "attendace_id": 321,
+        "employee_id": 321,
+        "date": "12/6/2020",
+        "name": "Lissy Tohill",
+        "checkIn_time": "9:16 PM",
+        "checkOut_time": "6:56 PM",
+        "reason": "Acrobates pygmaeus"
+    },
+    {
+        "attendace_id": 322,
+        "employee_id": 322,
+        "date": "7/25/2021",
+        "name": "Lynnell Millichap",
+        "checkIn_time": "9:13 PM",
+        "checkOut_time": "2:58 AM",
+        "reason": "Bettongia penicillata"
+    },
+    {
+        "attendace_id": 323,
+        "employee_id": 323,
+        "date": "4/19/2021",
+        "name": "Winifred Wildish",
+        "checkIn_time": "9:14 AM",
+        "checkOut_time": "7:06 AM",
+        "reason": "Sitta canadensis"
+    },
+    {
+        "attendace_id": 324,
+        "employee_id": 324,
+        "date": "6/2/2021",
+        "name": "Glyn Grishin",
+        "checkIn_time": "12:11 PM",
+        "checkOut_time": "12:16 PM",
+        "reason": "Diomedea irrorata"
+    },
+    {
+        "attendace_id": 325,
+        "employee_id": 325,
+        "date": "4/11/2021",
+        "name": "Tara Lindeberg",
+        "checkIn_time": "5:41 AM",
+        "checkOut_time": "1:47 PM",
+        "reason": "Stercorarius longicausus"
+    },
+    {
+        "attendace_id": 326,
+        "employee_id": 326,
+        "date": "11/2/2020",
+        "name": "Steward Sends",
+        "checkIn_time": "11:20 PM",
+        "checkOut_time": "1:05 PM",
+        "reason": "Pelecanus conspicillatus"
+    },
+    {
+        "attendace_id": 327,
+        "employee_id": 327,
+        "date": "9/13/2021",
+        "name": "Murdock Huleatt",
+        "checkIn_time": "6:03 AM",
+        "checkOut_time": "7:29 PM",
+        "reason": "Amazona sp."
+    },
+    {
+        "attendace_id": 328,
+        "employee_id": 328,
+        "date": "2/11/2021",
+        "name": "Arleta Lougheid",
+        "checkIn_time": "4:44 PM",
+        "checkOut_time": "10:19 PM",
+        "reason": "Marmota flaviventris"
+    },
+    {
+        "attendace_id": 329,
+        "employee_id": 329,
+        "date": "5/9/2021",
+        "name": "Shea Mechell",
+        "checkIn_time": "2:01 PM",
+        "checkOut_time": "12:21 PM",
+        "reason": "Buteo jamaicensis"
+    },
+    {
+        "attendace_id": 330,
+        "employee_id": 330,
+        "date": "2/15/2021",
+        "name": "Arlen Le Grice",
+        "checkIn_time": "6:51 AM",
+        "checkOut_time": "11:07 AM",
+        "reason": "Felis silvestris lybica"
+    },
+    {
+        "attendace_id": 331,
+        "employee_id": 331,
+        "date": "2/15/2021",
+        "name": "Lavina Rough",
+        "checkIn_time": "9:58 PM",
+        "checkOut_time": "9:49 PM",
+        "reason": "Pelecans onocratalus"
+    },
+    {
+        "attendace_id": 332,
+        "employee_id": 332,
+        "date": "4/27/2021",
+        "name": "Lauretta Eicheler",
+        "checkIn_time": "8:10 AM",
+        "checkOut_time": "8:37 AM",
+        "reason": "Drymarchon corias couperi"
+    },
+    {
+        "attendace_id": 333,
+        "employee_id": 333,
+        "date": "1/13/2021",
+        "name": "Danica Pettitt",
+        "checkIn_time": "12:54 AM",
+        "checkOut_time": "5:42 PM",
+        "reason": "Vanellus armatus"
+    },
+    {
+        "attendace_id": 334,
+        "employee_id": 334,
+        "date": "11/2/2020",
+        "name": "Dot Willisch",
+        "checkIn_time": "2:15 PM",
+        "checkOut_time": "6:35 AM",
+        "reason": "Bassariscus astutus"
+    },
+    {
+        "attendace_id": 335,
+        "employee_id": 335,
+        "date": "5/3/2021",
+        "name": "Freddy Knightsbridge",
+        "checkIn_time": "3:56 PM",
+        "checkOut_time": "1:47 AM",
+        "reason": "Cacatua tenuirostris"
+    },
+    {
+        "attendace_id": 336,
+        "employee_id": 336,
+        "date": "12/17/2020",
+        "name": "Tom Lawlan",
+        "checkIn_time": "8:06 PM",
+        "checkOut_time": "10:41 PM",
+        "reason": "Erinaceus frontalis"
+    },
+    {
+        "attendace_id": 337,
+        "employee_id": 337,
+        "date": "10/16/2020",
+        "name": "Lanette Longbothom",
+        "checkIn_time": "1:11 AM",
+        "checkOut_time": "9:19 AM",
+        "reason": "Callorhinus ursinus"
+    },
+    {
+        "attendace_id": 338,
+        "employee_id": 338,
+        "date": "7/8/2021",
+        "name": "Gianni Edmands",
+        "checkIn_time": "5:06 PM",
+        "checkOut_time": "10:44 PM",
+        "reason": "Lorythaixoides concolor"
+    },
+    {
+        "attendace_id": 339,
+        "employee_id": 339,
+        "date": "2/22/2021",
+        "name": "Sloane Blasgen",
+        "checkIn_time": "1:15 PM",
+        "checkOut_time": "1:44 AM",
+        "reason": "unavailable"
+    },
+    {
+        "attendace_id": 340,
+        "employee_id": 340,
+        "date": "7/1/2021",
+        "name": "Rivkah Castelletti",
+        "checkIn_time": "10:59 PM",
+        "checkOut_time": "3:48 AM",
+        "reason": "Eumetopias jubatus"
+    },
+    {
+        "attendace_id": 341,
+        "employee_id": 341,
+        "date": "8/27/2021",
+        "name": "Shaylynn Pagett",
+        "checkIn_time": "6:37 PM",
+        "checkOut_time": "11:01 AM",
+        "reason": "Boa caninus"
+    },
+    {
+        "attendace_id": 342,
+        "employee_id": 342,
+        "date": "4/9/2021",
+        "name": "Cyrillus Ternott",
+        "checkIn_time": "2:35 AM",
+        "checkOut_time": "10:12 PM",
+        "reason": "Macropus rufogriseus"
+    },
+    {
+        "attendace_id": 343,
+        "employee_id": 343,
+        "date": "10/30/2020",
+        "name": "Patty Shutler",
+        "checkIn_time": "9:00 PM",
+        "checkOut_time": "4:21 PM",
+        "reason": "Ovis ammon"
+    },
+    {
+        "attendace_id": 344,
+        "employee_id": 344,
+        "date": "5/5/2021",
+        "name": "Dunstan Padly",
+        "checkIn_time": "4:03 PM",
+        "checkOut_time": "2:24 AM",
+        "reason": "Canis lupus"
+    },
+    {
+        "attendace_id": 345,
+        "employee_id": 345,
+        "date": "11/19/2020",
+        "name": "Olimpia Iorns",
+        "checkIn_time": "12:32 AM",
+        "checkOut_time": "9:07 PM",
+        "reason": "Dusicyon thous"
+    },
+    {
+        "attendace_id": 346,
+        "employee_id": 346,
+        "date": "7/18/2021",
+        "name": "Fritz Hansie",
+        "checkIn_time": "4:14 AM",
+        "checkOut_time": "1:09 AM",
+        "reason": "Aonyx cinerea"
+    },
+    {
+        "attendace_id": 347,
+        "employee_id": 347,
+        "date": "5/27/2021",
+        "name": "Jock Kaesmakers",
+        "checkIn_time": "11:07 PM",
+        "checkOut_time": "8:44 AM",
+        "reason": "Kobus leche robertsi"
+    },
+    {
+        "attendace_id": 348,
+        "employee_id": 348,
+        "date": "6/14/2021",
+        "name": "Lexi Eye",
+        "checkIn_time": "7:11 PM",
+        "checkOut_time": "6:15 PM",
+        "reason": "Macropus fuliginosus"
+    },
+    {
+        "attendace_id": 349,
+        "employee_id": 349,
+        "date": "7/26/2021",
+        "name": "Trumann Ugolotti",
+        "checkIn_time": "7:48 PM",
+        "checkOut_time": "9:38 PM",
+        "reason": "Macaca mulatta"
+    },
+    {
+        "attendace_id": 350,
+        "employee_id": 350,
+        "date": "10/3/2021",
+        "name": "Mariette Marvel",
+        "checkIn_time": "6:26 AM",
+        "checkOut_time": "6:18 AM",
+        "reason": "Macropus rufogriseus"
+    },
+    {
+        "attendace_id": 351,
+        "employee_id": 351,
+        "date": "1/21/2021",
+        "name": "Ephrayim Kornyshev",
+        "checkIn_time": "2:59 AM",
+        "checkOut_time": "3:42 PM",
+        "reason": "Scolopax minor"
+    },
+    {
+        "attendace_id": 352,
+        "employee_id": 352,
+        "date": "12/13/2020",
+        "name": "Maddie Loveday",
+        "checkIn_time": "12:48 AM",
+        "checkOut_time": "4:34 AM",
+        "reason": "Oryx gazella"
+    },
+    {
+        "attendace_id": 353,
+        "employee_id": 353,
+        "date": "7/22/2021",
+        "name": "Olivette Petteford",
+        "checkIn_time": "6:05 AM",
+        "checkOut_time": "3:35 PM",
+        "reason": "Ramphastos tucanus"
+    },
+    {
+        "attendace_id": 354,
+        "employee_id": 354,
+        "date": "4/29/2021",
+        "name": "Jody Raggles",
+        "checkIn_time": "6:01 AM",
+        "checkOut_time": "7:38 AM",
+        "reason": "Naja nivea"
+    },
+    {
+        "attendace_id": 355,
+        "employee_id": 355,
+        "date": "5/8/2021",
+        "name": "Sam McGorley",
+        "checkIn_time": "1:56 AM",
+        "checkOut_time": "5:38 AM",
+        "reason": "Colaptes campestroides"
+    },
+    {
+        "attendace_id": 356,
+        "employee_id": 356,
+        "date": "12/15/2020",
+        "name": "Krystyna Fedder",
+        "checkIn_time": "4:41 PM",
+        "checkOut_time": "5:19 PM",
+        "reason": "unavailable"
+    },
+    {
+        "attendace_id": 357,
+        "employee_id": 357,
+        "date": "5/1/2021",
+        "name": "Clarice Jouhan",
+        "checkIn_time": "12:07 PM",
+        "checkOut_time": "9:22 PM",
+        "reason": "Picoides pubescens"
+    },
+    {
+        "attendace_id": 358,
+        "employee_id": 358,
+        "date": "9/29/2021",
+        "name": "Shem Renner",
+        "checkIn_time": "12:45 AM",
+        "checkOut_time": "2:46 AM",
+        "reason": "Phascolarctos cinereus"
+    },
+    {
+        "attendace_id": 359,
+        "employee_id": 359,
+        "date": "10/31/2020",
+        "name": "Michele Pilbeam",
+        "checkIn_time": "9:13 AM",
+        "checkOut_time": "10:44 PM",
+        "reason": "Microcebus murinus"
+    },
+    {
+        "attendace_id": 360,
+        "employee_id": 360,
+        "date": "4/12/2021",
+        "name": "Caldwell Giorgielli",
+        "checkIn_time": "7:51 AM",
+        "checkOut_time": "9:29 PM",
+        "reason": "Laniarius ferrugineus"
+    },
+    {
+        "attendace_id": 361,
+        "employee_id": 361,
+        "date": "8/9/2021",
+        "name": "Timmy Rayburn",
+        "checkIn_time": "3:56 AM",
+        "checkOut_time": "9:10 PM",
+        "reason": "Giraffe camelopardalis"
+    },
+    {
+        "attendace_id": 362,
+        "employee_id": 362,
+        "date": "12/27/2020",
+        "name": "Xever Linne",
+        "checkIn_time": "9:01 PM",
+        "checkOut_time": "3:55 AM",
+        "reason": "Anitibyx armatus"
+    },
+    {
+        "attendace_id": 363,
+        "employee_id": 363,
+        "date": "5/31/2021",
+        "name": "Abbe Brice",
+        "checkIn_time": "3:24 PM",
+        "checkOut_time": "3:05 PM",
+        "reason": "Graspus graspus"
+    },
+    {
+        "attendace_id": 364,
+        "employee_id": 364,
+        "date": "3/8/2021",
+        "name": "Abraham Hritzko",
+        "checkIn_time": "2:18 PM",
+        "checkOut_time": "6:35 AM",
+        "reason": "Chlidonias leucopterus"
+    },
+    {
+        "attendace_id": 365,
+        "employee_id": 365,
+        "date": "1/22/2021",
+        "name": "Pattie Butterworth",
+        "checkIn_time": "2:48 PM",
+        "checkOut_time": "1:56 AM",
+        "reason": "Helogale undulata"
+    },
+    {
+        "attendace_id": 366,
+        "employee_id": 366,
+        "date": "1/26/2021",
+        "name": "Zackariah Grierson",
+        "checkIn_time": "5:29 AM",
+        "checkOut_time": "6:33 PM",
+        "reason": "Spilogale gracilis"
+    },
+    {
+        "attendace_id": 367,
+        "employee_id": 367,
+        "date": "1/1/2021",
+        "name": "Elysha Kruszelnicki",
+        "checkIn_time": "5:17 AM",
+        "checkOut_time": "10:34 AM",
+        "reason": "Perameles nasuta"
+    },
+    {
+        "attendace_id": 368,
+        "employee_id": 368,
+        "date": "12/12/2020",
+        "name": "Alyce Stolberger",
+        "checkIn_time": "3:03 PM",
+        "checkOut_time": "11:52 AM",
+        "reason": "Columba livia"
+    },
+    {
+        "attendace_id": 369,
+        "employee_id": 369,
+        "date": "11/6/2020",
+        "name": "Ninette Ludee",
+        "checkIn_time": "11:18 PM",
+        "checkOut_time": "11:37 AM",
+        "reason": "Libellula quadrimaculata"
+    },
+    {
+        "attendace_id": 370,
+        "employee_id": 370,
+        "date": "6/23/2021",
+        "name": "Terry Muckian",
+        "checkIn_time": "8:32 AM",
+        "checkOut_time": "4:38 PM",
+        "reason": "Dusicyon thous"
+    },
+    {
+        "attendace_id": 371,
+        "employee_id": 371,
+        "date": "12/23/2020",
+        "name": "Humberto Phidgin",
+        "checkIn_time": "12:40 PM",
+        "checkOut_time": "2:58 PM",
+        "reason": "Phalacrocorax carbo"
+    },
+    {
+        "attendace_id": 372,
+        "employee_id": 372,
+        "date": "11/26/2020",
+        "name": "Pearline Valenta",
+        "checkIn_time": "3:37 PM",
+        "checkOut_time": "12:24 PM",
+        "reason": "Papio ursinus"
+    },
+    {
+        "attendace_id": 373,
+        "employee_id": 373,
+        "date": "8/18/2021",
+        "name": "Craig Southworth",
+        "checkIn_time": "7:04 AM",
+        "checkOut_time": "5:00 PM",
+        "reason": "Vulpes cinereoargenteus"
+    },
+    {
+        "attendace_id": 374,
+        "employee_id": 374,
+        "date": "7/21/2021",
+        "name": "Chance Dillingstone",
+        "checkIn_time": "5:38 AM",
+        "checkOut_time": "7:46 AM",
+        "reason": "Larus dominicanus"
+    },
+    {
+        "attendace_id": 375,
+        "employee_id": 375,
+        "date": "11/20/2020",
+        "name": "Marylin Braime",
+        "checkIn_time": "10:37 PM",
+        "checkOut_time": "10:04 AM",
+        "reason": "Isoodon obesulus"
+    },
+    {
+        "attendace_id": 376,
+        "employee_id": 376,
+        "date": "10/30/2020",
+        "name": "Elden Hobell",
+        "checkIn_time": "7:24 PM",
+        "checkOut_time": "1:14 PM",
+        "reason": "Ardea cinerea"
+    },
+    {
+        "attendace_id": 377,
+        "employee_id": 377,
+        "date": "12/27/2020",
+        "name": "Jeannie Zarfat",
+        "checkIn_time": "1:47 AM",
+        "checkOut_time": "6:27 AM",
+        "reason": "Phalacrocorax albiventer"
+    },
+    {
+        "attendace_id": 378,
+        "employee_id": 378,
+        "date": "12/17/2020",
+        "name": "Kearney Michelotti",
+        "checkIn_time": "8:31 PM",
+        "checkOut_time": "3:39 PM",
+        "reason": "Zosterops pallidus"
+    },
+    {
+        "attendace_id": 379,
+        "employee_id": 379,
+        "date": "4/8/2021",
+        "name": "Kaitlynn Junes",
+        "checkIn_time": "5:50 AM",
+        "checkOut_time": "7:12 PM",
+        "reason": "Larus sp."
+    },
+    {
+        "attendace_id": 380,
+        "employee_id": 380,
+        "date": "2/9/2021",
+        "name": "Lib Hawse",
+        "checkIn_time": "8:52 PM",
+        "checkOut_time": "10:24 PM",
+        "reason": "Streptopelia senegalensis"
+    },
+    {
+        "attendace_id": 381,
+        "employee_id": 381,
+        "date": "1/14/2021",
+        "name": "Griz Harriss",
+        "checkIn_time": "12:04 AM",
+        "checkOut_time": "7:22 PM",
+        "reason": "Procyon lotor"
+    },
+    {
+        "attendace_id": 382,
+        "employee_id": 382,
+        "date": "9/19/2021",
+        "name": "Werner Spillard",
+        "checkIn_time": "12:29 AM",
+        "checkOut_time": "8:47 AM",
+        "reason": "Francolinus coqui"
+    },
+    {
+        "attendace_id": 383,
+        "employee_id": 383,
+        "date": "9/4/2021",
+        "name": "Elena Scollan",
+        "checkIn_time": "9:15 PM",
+        "checkOut_time": "12:50 AM",
+        "reason": "Nyctereutes procyonoides"
+    },
+    {
+        "attendace_id": 384,
+        "employee_id": 384,
+        "date": "6/21/2021",
+        "name": "Caitlin Rangle",
+        "checkIn_time": "2:22 PM",
+        "checkOut_time": "11:12 AM",
+        "reason": "Felis wiedi or Leopardus weidi"
+    },
+    {
+        "attendace_id": 385,
+        "employee_id": 385,
+        "date": "11/24/2020",
+        "name": "Romola Boman",
+        "checkIn_time": "4:44 AM",
+        "checkOut_time": "1:09 PM",
+        "reason": "Geochelone elegans"
+    },
+    {
+        "attendace_id": 386,
+        "employee_id": 386,
+        "date": "12/25/2020",
+        "name": "Gustavus Stainland",
+        "checkIn_time": "6:30 PM",
+        "checkOut_time": "11:33 AM",
+        "reason": "Felis libyca"
+    },
+    {
+        "attendace_id": 387,
+        "employee_id": 387,
+        "date": "4/7/2021",
+        "name": "Ethyl Tambling",
+        "checkIn_time": "7:02 AM",
+        "checkOut_time": "3:41 AM",
+        "reason": "Dendrocygna viduata"
+    },
+    {
+        "attendace_id": 388,
+        "employee_id": 388,
+        "date": "10/29/2020",
+        "name": "Frank Skerritt",
+        "checkIn_time": "4:41 PM",
+        "checkOut_time": "1:40 AM",
+        "reason": "Chamaelo sp."
+    },
+    {
+        "attendace_id": 389,
+        "employee_id": 389,
+        "date": "9/23/2021",
+        "name": "Thaxter Bambery",
+        "checkIn_time": "9:25 AM",
+        "checkOut_time": "8:16 PM",
+        "reason": "Cervus canadensis"
+    },
+    {
+        "attendace_id": 390,
+        "employee_id": 390,
+        "date": "1/8/2021",
+        "name": "Dame Hellwich",
+        "checkIn_time": "4:38 PM",
+        "checkOut_time": "6:33 PM",
+        "reason": "Anathana ellioti"
+    },
+    {
+        "attendace_id": 391,
+        "employee_id": 391,
+        "date": "7/3/2021",
+        "name": "Roxy Dollman",
+        "checkIn_time": "5:16 AM",
+        "checkOut_time": "8:49 AM",
+        "reason": "Sagittarius serpentarius"
+    },
+    {
+        "attendace_id": 392,
+        "employee_id": 392,
+        "date": "10/21/2020",
+        "name": "Ofelia Ventham",
+        "checkIn_time": "1:11 PM",
+        "checkOut_time": "6:38 PM",
+        "reason": "Grus rubicundus"
+    },
+    {
+        "attendace_id": 393,
+        "employee_id": 393,
+        "date": "4/10/2021",
+        "name": "Ira De la Harpe",
+        "checkIn_time": "10:36 PM",
+        "checkOut_time": "5:14 PM",
+        "reason": "Boa constrictor mexicana"
+    },
+    {
+        "attendace_id": 394,
+        "employee_id": 394,
+        "date": "5/19/2021",
+        "name": "Missie Gynni",
+        "checkIn_time": "4:25 PM",
+        "checkOut_time": "6:56 PM",
+        "reason": "Capreolus capreolus"
+    },
+    {
+        "attendace_id": 395,
+        "employee_id": 395,
+        "date": "1/29/2021",
+        "name": "Jacobo Morillas",
+        "checkIn_time": "5:07 AM",
+        "checkOut_time": "11:26 AM",
+        "reason": "Lamprotornis nitens"
+    },
+    {
+        "attendace_id": 396,
+        "employee_id": 396,
+        "date": "5/19/2021",
+        "name": "Gerri D'Ugo",
+        "checkIn_time": "8:13 AM",
+        "checkOut_time": "9:15 PM",
+        "reason": "Felis concolor"
+    },
+    {
+        "attendace_id": 397,
+        "employee_id": 397,
+        "date": "6/20/2021",
+        "name": "Gerome Ambrogelli",
+        "checkIn_time": "9:47 PM",
+        "checkOut_time": "6:07 AM",
+        "reason": "Spheniscus magellanicus"
+    },
+    {
+        "attendace_id": 398,
+        "employee_id": 398,
+        "date": "4/1/2021",
+        "name": "Conrade Basini-Gazzi",
+        "checkIn_time": "1:02 PM",
+        "checkOut_time": "12:18 AM",
+        "reason": "Martes pennanti"
+    },
+    {
+        "attendace_id": 399,
+        "employee_id": 399,
+        "date": "3/15/2021",
+        "name": "Marie-jeanne Craighall",
+        "checkIn_time": "4:05 PM",
+        "checkOut_time": "12:50 AM",
+        "reason": "Alcelaphus buselaphus caama"
+    },
+    {
+        "attendace_id": 400,
+        "employee_id": 400,
+        "date": "5/7/2021",
+        "name": "Yank Bellward",
+        "checkIn_time": "2:12 PM",
+        "checkOut_time": "5:52 AM",
+        "reason": "Phoenicopterus chilensis"
+    },
+    {
+        "attendace_id": 401,
+        "employee_id": 401,
+        "date": "5/10/2021",
+        "name": "Say Aristide",
+        "checkIn_time": "8:48 PM",
+        "checkOut_time": "10:56 AM",
+        "reason": "Ratufa indica"
+    },
+    {
+        "attendace_id": 402,
+        "employee_id": 402,
+        "date": "9/5/2021",
+        "name": "Noemi Geffcock",
+        "checkIn_time": "1:56 PM",
+        "checkOut_time": "12:45 AM",
+        "reason": "Cereopsis novaehollandiae"
+    },
+    {
+        "attendace_id": 403,
+        "employee_id": 403,
+        "date": "12/3/2020",
+        "name": "Valerye Abbotts",
+        "checkIn_time": "11:07 PM",
+        "checkOut_time": "4:12 PM",
+        "reason": "Delphinus delphis"
+    },
+    {
+        "attendace_id": 404,
+        "employee_id": 404,
+        "date": "12/19/2020",
+        "name": "Chic Desforges",
+        "checkIn_time": "4:06 PM",
+        "checkOut_time": "10:24 PM",
+        "reason": "Tadorna tadorna"
+    },
+    {
+        "attendace_id": 405,
+        "employee_id": 405,
+        "date": "11/20/2020",
+        "name": "Robin Borghese",
+        "checkIn_time": "7:17 PM",
+        "checkOut_time": "5:09 AM",
+        "reason": "Pandon haliaetus"
+    },
+    {
+        "attendace_id": 406,
+        "employee_id": 406,
+        "date": "3/31/2021",
+        "name": "Serene Waddilove",
+        "checkIn_time": "11:22 AM",
+        "checkOut_time": "11:29 AM",
+        "reason": "Cochlearius cochlearius"
+    },
+    {
+        "attendace_id": 407,
+        "employee_id": 407,
+        "date": "11/12/2020",
+        "name": "Christoffer Arrighini",
+        "checkIn_time": "3:57 PM",
+        "checkOut_time": "7:31 PM",
+        "reason": "Felis concolor"
+    },
+    {
+        "attendace_id": 408,
+        "employee_id": 408,
+        "date": "1/30/2021",
+        "name": "Arturo Hudson",
+        "checkIn_time": "9:00 AM",
+        "checkOut_time": "2:16 AM",
+        "reason": "Dendrocitta vagabunda"
+    },
+    {
+        "attendace_id": 409,
+        "employee_id": 409,
+        "date": "11/2/2020",
+        "name": "Debor Rignall",
+        "checkIn_time": "12:22 AM",
+        "checkOut_time": "8:47 AM",
+        "reason": "Damaliscus lunatus"
+    },
+    {
+        "attendace_id": 410,
+        "employee_id": 410,
+        "date": "10/17/2020",
+        "name": "Kassandra Reany",
+        "checkIn_time": "2:56 PM",
+        "checkOut_time": "4:33 PM",
+        "reason": "Myrmecophaga tridactyla"
+    },
+    {
+        "attendace_id": 411,
+        "employee_id": 411,
+        "date": "6/28/2021",
+        "name": "Vinni Linfitt",
+        "checkIn_time": "4:46 PM",
+        "checkOut_time": "10:24 PM",
+        "reason": "Cacatua galerita"
+    },
+    {
+        "attendace_id": 412,
+        "employee_id": 412,
+        "date": "8/11/2021",
+        "name": "Faye Neild",
+        "checkIn_time": "5:07 PM",
+        "checkOut_time": "3:48 PM",
+        "reason": "Oryx gazella callotis"
+    },
+    {
+        "attendace_id": 413,
+        "employee_id": 413,
+        "date": "2/1/2021",
+        "name": "Deeanne Everist",
+        "checkIn_time": "11:52 PM",
+        "checkOut_time": "5:01 PM",
+        "reason": "Gyps bengalensis"
+    },
+    {
+        "attendace_id": 414,
+        "employee_id": 414,
+        "date": "11/28/2020",
+        "name": "Abe Aked",
+        "checkIn_time": "8:38 PM",
+        "checkOut_time": "2:03 PM",
+        "reason": "Megaderma spasma"
+    },
+    {
+        "attendace_id": 415,
+        "employee_id": 415,
+        "date": "7/30/2021",
+        "name": "Rhodia Tathacott",
+        "checkIn_time": "3:58 PM",
+        "checkOut_time": "1:58 PM",
+        "reason": "Propithecus verreauxi"
+    },
+    {
+        "attendace_id": 416,
+        "employee_id": 416,
+        "date": "2/18/2021",
+        "name": "Garry Thyng",
+        "checkIn_time": "9:41 AM",
+        "checkOut_time": "10:53 PM",
+        "reason": "Cabassous sp."
+    },
+    {
+        "attendace_id": 417,
+        "employee_id": 417,
+        "date": "1/16/2021",
+        "name": "Horatio Longson",
+        "checkIn_time": "3:00 PM",
+        "checkOut_time": "5:13 PM",
+        "reason": "Columba livia"
+    },
+    {
+        "attendace_id": 418,
+        "employee_id": 418,
+        "date": "3/12/2021",
+        "name": "Yehudit Levecque",
+        "checkIn_time": "4:21 PM",
+        "checkOut_time": "6:20 AM",
+        "reason": "Hyaena brunnea"
+    },
+    {
+        "attendace_id": 419,
+        "employee_id": 419,
+        "date": "12/31/2020",
+        "name": "Billy Grosvener",
+        "checkIn_time": "7:17 AM",
+        "checkOut_time": "5:11 PM",
+        "reason": "Corallus hortulanus cooki"
+    },
+    {
+        "attendace_id": 420,
+        "employee_id": 420,
+        "date": "1/15/2021",
+        "name": "Brinna Elliker",
+        "checkIn_time": "12:56 AM",
+        "checkOut_time": "2:48 AM",
+        "reason": "Macropus eugenii"
+    },
+    {
+        "attendace_id": 421,
+        "employee_id": 421,
+        "date": "7/13/2021",
+        "name": "Thibaut Tonner",
+        "checkIn_time": "12:10 AM",
+        "checkOut_time": "1:27 PM",
+        "reason": "Vulpes chama"
+    },
+    {
+        "attendace_id": 422,
+        "employee_id": 422,
+        "date": "5/17/2021",
+        "name": "Philippa Lerwill",
+        "checkIn_time": "7:10 AM",
+        "checkOut_time": "10:51 AM",
+        "reason": "Physignathus cocincinus"
+    },
+    {
+        "attendace_id": 423,
+        "employee_id": 423,
+        "date": "1/22/2021",
+        "name": "Weidar Caffery",
+        "checkIn_time": "10:03 AM",
+        "checkOut_time": "2:05 AM",
+        "reason": "Grus rubicundus"
+    },
+    {
+        "attendace_id": 424,
+        "employee_id": 424,
+        "date": "10/5/2020",
+        "name": "Kippie Blaske",
+        "checkIn_time": "10:05 AM",
+        "checkOut_time": "7:31 PM",
+        "reason": "Bubo virginianus"
+    },
+    {
+        "attendace_id": 425,
+        "employee_id": 425,
+        "date": "6/15/2021",
+        "name": "Avrom MacCoughen",
+        "checkIn_time": "5:47 PM",
+        "checkOut_time": "6:55 AM",
+        "reason": "Macropus parryi"
+    },
+    {
+        "attendace_id": 426,
+        "employee_id": 426,
+        "date": "6/21/2021",
+        "name": "Brandon Vian",
+        "checkIn_time": "1:46 PM",
+        "checkOut_time": "5:29 AM",
+        "reason": "unavailable"
+    },
+    {
+        "attendace_id": 427,
+        "employee_id": 427,
+        "date": "8/7/2021",
+        "name": "Doloritas Saunt",
+        "checkIn_time": "11:32 PM",
+        "checkOut_time": "12:35 AM",
+        "reason": "Anser caerulescens"
+    },
+    {
+        "attendace_id": 428,
+        "employee_id": 428,
+        "date": "1/16/2021",
+        "name": "Fiona Geldert",
+        "checkIn_time": "1:03 AM",
+        "checkOut_time": "2:14 AM",
+        "reason": "Passer domesticus"
+    },
+    {
+        "attendace_id": 429,
+        "employee_id": 429,
+        "date": "5/11/2021",
+        "name": "Evania Bulley",
+        "checkIn_time": "10:56 PM",
+        "checkOut_time": "2:36 PM",
+        "reason": "Bassariscus astutus"
+    },
+    {
+        "attendace_id": 430,
+        "employee_id": 430,
+        "date": "8/28/2021",
+        "name": "Hugues Mechan",
+        "checkIn_time": "7:11 PM",
+        "checkOut_time": "11:45 PM",
+        "reason": "Vanellus chilensis"
+    },
+    {
+        "attendace_id": 431,
+        "employee_id": 431,
+        "date": "11/4/2020",
+        "name": "Gipsy Shyram",
+        "checkIn_time": "12:04 PM",
+        "checkOut_time": "5:30 PM",
+        "reason": "Uraeginthus bengalus"
+    },
+    {
+        "attendace_id": 432,
+        "employee_id": 432,
+        "date": "11/28/2020",
+        "name": "Siegfried Pettiford",
+        "checkIn_time": "8:21 PM",
+        "checkOut_time": "10:30 PM",
+        "reason": "Scolopax minor"
+    },
+    {
+        "attendace_id": 433,
+        "employee_id": 433,
+        "date": "5/10/2021",
+        "name": "Hadleigh Kemetz",
+        "checkIn_time": "1:45 PM",
+        "checkOut_time": "11:57 AM",
+        "reason": "Arctogalidia trivirgata"
+    },
+    {
+        "attendace_id": 434,
+        "employee_id": 434,
+        "date": "5/7/2021",
+        "name": "Timmy Slimmon",
+        "checkIn_time": "3:11 AM",
+        "checkOut_time": "2:51 PM",
+        "reason": "Otaria flavescens"
+    },
+    {
+        "attendace_id": 435,
+        "employee_id": 435,
+        "date": "11/5/2020",
+        "name": "Artair Sneezum",
+        "checkIn_time": "8:35 AM",
+        "checkOut_time": "8:39 PM",
+        "reason": "Ephipplorhynchus senegalensis"
+    },
+    {
+        "attendace_id": 436,
+        "employee_id": 436,
+        "date": "12/29/2020",
+        "name": "Clive Fluck",
+        "checkIn_time": "11:49 PM",
+        "checkOut_time": "1:20 PM",
+        "reason": "Axis axis"
+    },
+    {
+        "attendace_id": 437,
+        "employee_id": 437,
+        "date": "1/21/2021",
+        "name": "Eugenius Brockhurst",
+        "checkIn_time": "12:39 AM",
+        "checkOut_time": "4:54 PM",
+        "reason": "Cebus nigrivittatus"
+    },
+    {
+        "attendace_id": 438,
+        "employee_id": 438,
+        "date": "12/2/2020",
+        "name": "Sarajane De La Cote",
+        "checkIn_time": "2:37 AM",
+        "checkOut_time": "2:56 PM",
+        "reason": "Spermophilus tridecemlineatus"
+    },
+    {
+        "attendace_id": 439,
+        "employee_id": 439,
+        "date": "12/13/2020",
+        "name": "Annmaria Snufflebottom",
+        "checkIn_time": "12:53 PM",
+        "checkOut_time": "10:58 PM",
+        "reason": "Turtur chalcospilos"
+    },
+    {
+        "attendace_id": 440,
+        "employee_id": 440,
+        "date": "1/12/2021",
+        "name": "Aleda Orthmann",
+        "checkIn_time": "5:50 AM",
+        "checkOut_time": "6:09 AM",
+        "reason": "Madoqua kirkii"
+    },
+    {
+        "attendace_id": 441,
+        "employee_id": 441,
+        "date": "5/7/2021",
+        "name": "Maurene Bend",
+        "checkIn_time": "10:34 AM",
+        "checkOut_time": "12:29 PM",
+        "reason": "Macropus eugenii"
+    },
+    {
+        "attendace_id": 442,
+        "employee_id": 442,
+        "date": "6/15/2021",
+        "name": "Loydie McDermot",
+        "checkIn_time": "4:25 AM",
+        "checkOut_time": "7:00 AM",
+        "reason": "Damaliscus lunatus"
+    },
+    {
+        "attendace_id": 443,
+        "employee_id": 443,
+        "date": "9/18/2021",
+        "name": "Launce Scardefield",
+        "checkIn_time": "5:09 AM",
+        "checkOut_time": "4:57 AM",
+        "reason": "Ceratotherium simum"
+    },
+    {
+        "attendace_id": 444,
+        "employee_id": 444,
+        "date": "1/18/2021",
+        "name": "Gino Linthead",
+        "checkIn_time": "8:53 PM",
+        "checkOut_time": "2:41 AM",
+        "reason": "Hippotragus niger"
+    },
+    {
+        "attendace_id": 445,
+        "employee_id": 445,
+        "date": "5/12/2021",
+        "name": "Hurleigh Simecek",
+        "checkIn_time": "5:34 PM",
+        "checkOut_time": "9:13 AM",
+        "reason": "Lemur catta"
+    },
+    {
+        "attendace_id": 446,
+        "employee_id": 446,
+        "date": "2/25/2021",
+        "name": "Care Hartop",
+        "checkIn_time": "5:32 AM",
+        "checkOut_time": "11:21 AM",
+        "reason": "Eudromia elegans"
+    },
+    {
+        "attendace_id": 447,
+        "employee_id": 447,
+        "date": "12/20/2020",
+        "name": "Ronny Deverock",
+        "checkIn_time": "6:32 PM",
+        "checkOut_time": "2:23 PM",
+        "reason": "Physignathus cocincinus"
+    },
+    {
+        "attendace_id": 448,
+        "employee_id": 448,
+        "date": "8/10/2021",
+        "name": "Virgilio Burnitt",
+        "checkIn_time": "4:54 AM",
+        "checkOut_time": "10:19 PM",
+        "reason": "Meleagris gallopavo"
+    },
+    {
+        "attendace_id": 449,
+        "employee_id": 449,
+        "date": "8/8/2021",
+        "name": "Alameda McPharlain",
+        "checkIn_time": "11:55 PM",
+        "checkOut_time": "7:15 PM",
+        "reason": "Cynictis penicillata"
+    },
+    {
+        "attendace_id": 450,
+        "employee_id": 450,
+        "date": "11/22/2020",
+        "name": "Rriocard Cornelisse",
+        "checkIn_time": "6:09 AM",
+        "checkOut_time": "6:43 AM",
+        "reason": "Dendrohyrax brucel"
+    },
+    {
+        "attendace_id": 451,
+        "employee_id": 451,
+        "date": "1/1/2021",
+        "name": "Tabatha Kinvig",
+        "checkIn_time": "1:08 PM",
+        "checkOut_time": "1:39 PM",
+        "reason": "Tringa glareola"
+    },
+    {
+        "attendace_id": 452,
+        "employee_id": 452,
+        "date": "3/28/2021",
+        "name": "Jsandye Chastanet",
+        "checkIn_time": "1:52 AM",
+        "checkOut_time": "12:54 AM",
+        "reason": "Sciurus vulgaris"
+    },
+    {
+        "attendace_id": 453,
+        "employee_id": 453,
+        "date": "9/25/2021",
+        "name": "Orville Sculley",
+        "checkIn_time": "12:29 AM",
+        "checkOut_time": "7:36 PM",
+        "reason": "Boa caninus"
+    },
+    {
+        "attendace_id": 454,
+        "employee_id": 454,
+        "date": "9/14/2021",
+        "name": "Gerri Baldock",
+        "checkIn_time": "3:25 AM",
+        "checkOut_time": "10:28 PM",
+        "reason": "Trichoglossus haematodus moluccanus"
+    },
+    {
+        "attendace_id": 455,
+        "employee_id": 455,
+        "date": "1/30/2021",
+        "name": "Emlynne Ghidotti",
+        "checkIn_time": "12:45 AM",
+        "checkOut_time": "8:20 AM",
+        "reason": "Madoqua kirkii"
+    },
+    {
+        "attendace_id": 456,
+        "employee_id": 456,
+        "date": "4/20/2021",
+        "name": "Raven Garforth",
+        "checkIn_time": "8:55 AM",
+        "checkOut_time": "9:45 PM",
+        "reason": "Geococcyx californianus"
+    },
+    {
+        "attendace_id": 457,
+        "employee_id": 457,
+        "date": "8/25/2021",
+        "name": "Matilda Deplacido",
+        "checkIn_time": "2:35 AM",
+        "checkOut_time": "6:22 PM",
+        "reason": "Cervus duvauceli"
+    },
+    {
+        "attendace_id": 458,
+        "employee_id": 458,
+        "date": "6/24/2021",
+        "name": "Emmeline Loachhead",
+        "checkIn_time": "12:23 PM",
+        "checkOut_time": "1:48 AM",
+        "reason": "Oreotragus oreotragus"
+    },
+    {
+        "attendace_id": 459,
+        "employee_id": 459,
+        "date": "2/16/2021",
+        "name": "Rosene Hembrow",
+        "checkIn_time": "12:44 PM",
+        "checkOut_time": "7:42 PM",
+        "reason": "Ciconia ciconia"
+    },
+    {
+        "attendace_id": 460,
+        "employee_id": 460,
+        "date": "3/24/2021",
+        "name": "Nettle O'Henehan",
+        "checkIn_time": "3:47 AM",
+        "checkOut_time": "5:48 PM",
+        "reason": "Raphicerus campestris"
+    },
+    {
+        "attendace_id": 461,
+        "employee_id": 461,
+        "date": "2/21/2021",
+        "name": "Vasili Wemm",
+        "checkIn_time": "10:41 AM",
+        "checkOut_time": "5:36 PM",
+        "reason": "Varanus sp."
+    },
+    {
+        "attendace_id": 462,
+        "employee_id": 462,
+        "date": "8/14/2021",
+        "name": "Ashlie Pillington",
+        "checkIn_time": "8:40 PM",
+        "checkOut_time": "9:38 PM",
+        "reason": "Paraxerus cepapi"
+    },
+    {
+        "attendace_id": 463,
+        "employee_id": 463,
+        "date": "4/21/2021",
+        "name": "Timothee Eagles",
+        "checkIn_time": "7:07 PM",
+        "checkOut_time": "4:03 PM",
+        "reason": "Anathana ellioti"
+    },
+    {
+        "attendace_id": 464,
+        "employee_id": 464,
+        "date": "3/25/2021",
+        "name": "Rebekah Pleuman",
+        "checkIn_time": "5:22 PM",
+        "checkOut_time": "3:39 AM",
+        "reason": "Ploceus rubiginosus"
+    },
+    {
+        "attendace_id": 465,
+        "employee_id": 465,
+        "date": "5/20/2021",
+        "name": "Bibbie De Michetti",
+        "checkIn_time": "7:00 PM",
+        "checkOut_time": "9:52 PM",
+        "reason": "Diceros bicornis"
+    },
+    {
+        "attendace_id": 466,
+        "employee_id": 466,
+        "date": "10/27/2020",
+        "name": "Anthia Whitlam",
+        "checkIn_time": "12:25 AM",
+        "checkOut_time": "6:50 PM",
+        "reason": "Tockus flavirostris"
+    },
+    {
+        "attendace_id": 467,
+        "employee_id": 467,
+        "date": "2/20/2021",
+        "name": "Janaya Briskey",
+        "checkIn_time": "7:00 PM",
+        "checkOut_time": "7:53 AM",
+        "reason": "Speotyte cuniculata"
+    },
+    {
+        "attendace_id": 468,
+        "employee_id": 468,
+        "date": "10/25/2020",
+        "name": "Borden Knipe",
+        "checkIn_time": "1:40 AM",
+        "checkOut_time": "11:19 PM",
+        "reason": "Geochelone radiata"
+    },
+    {
+        "attendace_id": 469,
+        "employee_id": 469,
+        "date": "10/11/2020",
+        "name": "Dominique Plumridge",
+        "checkIn_time": "3:11 PM",
+        "checkOut_time": "7:40 AM",
+        "reason": "Psophia viridis"
+    },
+    {
+        "attendace_id": 470,
+        "employee_id": 470,
+        "date": "3/19/2021",
+        "name": "Jocelyn Dreini",
+        "checkIn_time": "6:24 PM",
+        "checkOut_time": "4:11 AM",
+        "reason": "Merops nubicus"
+    },
+    {
+        "attendace_id": 471,
+        "employee_id": 471,
+        "date": "5/29/2021",
+        "name": "Shea Durnell",
+        "checkIn_time": "11:09 PM",
+        "checkOut_time": "3:31 AM",
+        "reason": "Meleagris gallopavo"
+    },
+    {
+        "attendace_id": 472,
+        "employee_id": 472,
+        "date": "8/22/2021",
+        "name": "Karine July",
+        "checkIn_time": "7:54 AM",
+        "checkOut_time": "12:03 PM",
+        "reason": "Semnopithecus entellus"
+    },
+    {
+        "attendace_id": 473,
+        "employee_id": 473,
+        "date": "4/9/2021",
+        "name": "Karlyn Brearty",
+        "checkIn_time": "11:53 PM",
+        "checkOut_time": "1:28 AM",
+        "reason": "Centrocercus urophasianus"
+    },
+    {
+        "attendace_id": 474,
+        "employee_id": 474,
+        "date": "5/18/2021",
+        "name": "Tome Putson",
+        "checkIn_time": "10:53 PM",
+        "checkOut_time": "10:38 PM",
+        "reason": "Dasypus novemcinctus"
+    },
+    {
+        "attendace_id": 475,
+        "employee_id": 475,
+        "date": "4/18/2021",
+        "name": "Gwyn Hillborne",
+        "checkIn_time": "9:15 PM",
+        "checkOut_time": "6:06 AM",
+        "reason": "Galictis vittata"
+    },
+    {
+        "attendace_id": 476,
+        "employee_id": 476,
+        "date": "9/26/2021",
+        "name": "Lynelle Van Son",
+        "checkIn_time": "12:59 PM",
+        "checkOut_time": "3:38 PM",
+        "reason": "Cercopithecus aethiops"
+    },
+    {
+        "attendace_id": 477,
+        "employee_id": 477,
+        "date": "9/24/2021",
+        "name": "Grete Mastrantone",
+        "checkIn_time": "4:14 AM",
+        "checkOut_time": "9:43 AM",
+        "reason": "Macropus agilis"
+    },
+    {
+        "attendace_id": 478,
+        "employee_id": 478,
+        "date": "5/10/2021",
+        "name": "Josey Longcaster",
+        "checkIn_time": "3:34 PM",
+        "checkOut_time": "7:54 PM",
+        "reason": "Zalophus californicus"
+    },
+    {
+        "attendace_id": 479,
+        "employee_id": 479,
+        "date": "6/23/2021",
+        "name": "Sonya McJarrow",
+        "checkIn_time": "11:29 AM",
+        "checkOut_time": "6:49 PM",
+        "reason": "Ciconia episcopus"
+    },
+    {
+        "attendace_id": 480,
+        "employee_id": 480,
+        "date": "1/20/2021",
+        "name": "Betty Botger",
+        "checkIn_time": "8:31 PM",
+        "checkOut_time": "12:40 PM",
+        "reason": "Redunca redunca"
+    },
+    {
+        "attendace_id": 481,
+        "employee_id": 481,
+        "date": "2/11/2021",
+        "name": "Nydia Vallack",
+        "checkIn_time": "12:24 PM",
+        "checkOut_time": "6:54 PM",
+        "reason": "Pseudoleistes virescens"
+    },
+    {
+        "attendace_id": 482,
+        "employee_id": 482,
+        "date": "11/18/2020",
+        "name": "Sunny Ewbank",
+        "checkIn_time": "5:52 PM",
+        "checkOut_time": "7:57 PM",
+        "reason": "Grus rubicundus"
+    },
+    {
+        "attendace_id": 483,
+        "employee_id": 483,
+        "date": "2/14/2021",
+        "name": "Walker Lovekin",
+        "checkIn_time": "10:26 PM",
+        "checkOut_time": "8:18 AM",
+        "reason": "Cathartes aura"
+    },
+    {
+        "attendace_id": 484,
+        "employee_id": 484,
+        "date": "3/13/2021",
+        "name": "Demetre Barley",
+        "checkIn_time": "5:05 PM",
+        "checkOut_time": "10:50 AM",
+        "reason": "Zosterops pallidus"
+    },
+    {
+        "attendace_id": 485,
+        "employee_id": 485,
+        "date": "12/19/2020",
+        "name": "Lina Shewry",
+        "checkIn_time": "6:06 PM",
+        "checkOut_time": "11:04 AM",
+        "reason": "Pseudalopex gymnocercus"
+    },
+    {
+        "attendace_id": 486,
+        "employee_id": 486,
+        "date": "6/11/2021",
+        "name": "Emelyne Stephen",
+        "checkIn_time": "5:36 PM",
+        "checkOut_time": "6:44 PM",
+        "reason": "Acrantophis madagascariensis"
+    },
+    {
+        "attendace_id": 487,
+        "employee_id": 487,
+        "date": "4/19/2021",
+        "name": "Moira McVicar",
+        "checkIn_time": "9:12 AM",
+        "checkOut_time": "1:49 AM",
+        "reason": "Pelecanus occidentalis"
+    },
+    {
+        "attendace_id": 488,
+        "employee_id": 488,
+        "date": "8/29/2021",
+        "name": "Lanny Tomicki",
+        "checkIn_time": "6:25 PM",
+        "checkOut_time": "7:54 AM",
+        "reason": "Choloepus hoffmani"
+    },
+    {
+        "attendace_id": 489,
+        "employee_id": 489,
+        "date": "10/20/2020",
+        "name": "Burton Rubertis",
+        "checkIn_time": "1:40 PM",
+        "checkOut_time": "12:27 PM",
+        "reason": "Ictonyx striatus"
+    },
+    {
+        "attendace_id": 490,
+        "employee_id": 490,
+        "date": "2/23/2021",
+        "name": "Gordon Burn",
+        "checkIn_time": "5:28 PM",
+        "checkOut_time": "9:04 PM",
+        "reason": "Coluber constrictor"
+    },
+    {
+        "attendace_id": 491,
+        "employee_id": 491,
+        "date": "2/15/2021",
+        "name": "Shae Ende",
+        "checkIn_time": "10:40 PM",
+        "checkOut_time": "5:49 AM",
+        "reason": "Macropus rufogriseus"
+    },
+    {
+        "attendace_id": 492,
+        "employee_id": 492,
+        "date": "5/21/2021",
+        "name": "Merrill Klosa",
+        "checkIn_time": "5:43 PM",
+        "checkOut_time": "3:17 AM",
+        "reason": "Phoenicopterus chilensis"
+    },
+    {
+        "attendace_id": 493,
+        "employee_id": 493,
+        "date": "7/16/2021",
+        "name": "Mose Boath",
+        "checkIn_time": "11:44 PM",
+        "checkOut_time": "7:40 PM",
+        "reason": "Bos taurus"
+    },
+    {
+        "attendace_id": 494,
+        "employee_id": 494,
+        "date": "5/7/2021",
+        "name": "Berkley Cornbill",
+        "checkIn_time": "3:24 AM",
+        "checkOut_time": "11:20 AM",
+        "reason": "Tiliqua scincoides"
+    },
+    {
+        "attendace_id": 495,
+        "employee_id": 495,
+        "date": "10/22/2020",
+        "name": "Gallard Kinner",
+        "checkIn_time": "12:25 PM",
+        "checkOut_time": "2:21 PM",
+        "reason": "Varanus salvator"
+    },
+    {
+        "attendace_id": 496,
+        "employee_id": 496,
+        "date": "1/18/2021",
+        "name": "Cristi Spybey",
+        "checkIn_time": "4:20 PM",
+        "checkOut_time": "5:19 AM",
+        "reason": "Tachyglossus aculeatus"
+    },
+    {
+        "attendace_id": 497,
+        "employee_id": 497,
+        "date": "5/12/2021",
+        "name": "Cornela Stannis",
+        "checkIn_time": "4:54 PM",
+        "checkOut_time": "4:50 PM",
+        "reason": "Macropus fuliginosus"
+    },
+    {
+        "attendace_id": 498,
+        "employee_id": 498,
+        "date": "5/29/2021",
+        "name": "Roz Harbert",
+        "checkIn_time": "9:23 AM",
+        "checkOut_time": "11:58 PM",
+        "reason": "Kobus defassa"
+    },
+    {
+        "attendace_id": 499,
+        "employee_id": 499,
+        "date": "11/6/2020",
+        "name": "Hamish Canto",
+        "checkIn_time": "12:02 PM",
+        "checkOut_time": "11:00 AM",
+        "reason": "Hymenolaimus malacorhynchus"
+    },
+    {
+        "attendace_id": 500,
+        "employee_id": 500,
+        "date": "12/21/2020",
+        "name": "Bettine Gumbley",
+        "checkIn_time": "6:18 PM",
+        "checkOut_time": "9:37 PM",
+        "reason": "Turtur chalcospilos"
+    }
+]
